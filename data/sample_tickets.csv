@@ -1,0 +1,1201 @@
+ticket_text,category,urgency
+"Please help me, I need help changing my account details. I need help today. Please assist.",account,medium
+"Hi team, My profile information is incorrect and I need it updated. when convenient. Please assist.",account,low
+"Hi team, I forgot my password and need an account reset. this is affecting my work. Thank you.",account,medium
+"Hello support, My profile information is incorrect and I need it updated. I need help immediately. Thanks for your help. Reference ticket available on request.",account,high
+"Hello support, The app is very slow and stops responding. please respond when possible. Please assist.",technical,low
+"Customer support, I forgot my password and need an account reset. this must be resolved right away. Thanks for your help.",account,high
+"Please help me, Please help me with a product replacement. this can be handled later. I would appreciate your support.",product,low
+"Hi team, I was charged twice for the same order. this is affecting my work.",billing,medium
+"I need assistance, My account is locked and I cannot access it. I need help immediately.",account,high
+"Customer support, I want to report a problem with the product. this must be resolved right away.",product,high
+"I need assistance, I need help using the product correctly. I would appreciate a normal response. Please assist. Reference ticket available on request.",product,low
+"Hi team, The item is missing an important component. I need help today. Please assist. Reference ticket available on request.",product,medium
+"Customer support, Please check a billing error on my account. when convenient. Please assist.",billing,low
+"Please help me, Please check a billing error on my account. I need help today. Thank you.",billing,medium
+"Hi team, I need information about the product features. I need help today. Thank you.",product,medium
+"Please help me, I received the wrong product in my order. please respond soon. Thanks for your help.",product,medium
+"I need assistance, The page fails to load correctly. this must be resolved right away. Thanks for your help.",technical,high
+"Customer support, I cannot connect to the service because of an error. this must be resolved right away. I would appreciate your support.",technical,high
+"Please help me, The sign in page rejects my credentials. please respond when possible.",account,low
+"Customer support, The system is not working after the latest update. I have an important payment due today. Please assist.",technical,high
+"Customer support, I cannot log in to my account and need help. when convenient. Thank you.",account,low
+"I need assistance, The invoice total is different from what I expected. please respond when possible. Please assist.",billing,low
+"Please help me, I am unable to access my customer account. this is affecting my work.",account,medium
+"Please help me, I need information about the product features. this can be handled later. Please assist. Reference ticket available on request.",product,low
+"Please help me, Please help me recover access to my account. I need help immediately.",account,high
+"Hello support, I need information about the product features. I would appreciate a normal response. Thank you.",product,low
+"I need assistance, The app is very slow and stops responding. please respond soon. I would appreciate your support.",technical,medium
+"Hello support, The system is not working after the latest update. please respond when possible. Please assist.",technical,low
+"Hello support, The invoice total is different from what I expected. this must be resolved right away. Thanks for your help.",billing,high
+"Hi team, I cannot log in to my account and need help. please check this issue today. I would appreciate your support. Reference ticket available on request.",account,medium
+"Hello support, I am getting a server error when trying to continue. please respond when possible. Thank you.",technical,low
+"Hi team, I need help changing my account details. this must be resolved right away. Thank you.",account,high
+"Please help me, Please help me with a product replacement. there is no immediate rush.",product,low
+"Hello support, I need technical support for an application issue. I need help today.",technical,medium
+"I need assistance, I am getting a server error when trying to continue. please check this issue today. Thanks for your help.",technical,medium
+"Hello support, My account is locked and I cannot access it. please respond soon. I would appreciate your support.",account,medium
+"Customer support, I cannot log in to my account and need help. this is urgent. Thanks for your help.",account,high
+"Customer support, I need a refund for an incorrect charge. there is no immediate rush.",billing,low
+"Customer support, The product does not work as described. I would appreciate a normal response. Please assist.",product,low
+"I need assistance, Please check a billing error on my account. I need help today. Thanks for your help.",billing,medium
+"Please help me, I need a refund for an incorrect charge. this is urgent. Please assist.",billing,high
+"Hello support, I need help changing my account details. this can be handled later. Please assist.",account,low
+"Hello support, My account is locked and I cannot access it. please check this issue today. Please assist.",account,medium
+"Please help me, Please check a billing error on my account. please check this issue today. Please assist.",billing,medium
+"I need assistance, I am unable to access my customer account. I need help today. Thanks for your help. Reference ticket available on request.",account,medium
+"I need assistance, The app is very slow and stops responding. please respond soon. Please assist.",technical,medium
+"Hi team, The app is very slow and stops responding. I have an important payment due today. I would appreciate your support.",technical,high
+"I need assistance, The product I received is damaged. I need help today. Thanks for your help.",product,medium
+"Customer support, I am getting a server error when trying to continue. when convenient. Thank you.",technical,low
+"I need assistance, There is an unexpected charge on my bill. when convenient. Thank you.",billing,low
+"Please help me, I need information about the product features. this is urgent. Thank you.",product,high
+"Please help me, I want to report a problem with the product. please respond soon. Please assist.",product,medium
+"Please help me, I cannot connect to the service because of an error. this must be resolved right away. Thanks for your help.",technical,high
+"Customer support, The product I received is damaged. I cannot continue until this is fixed. Thank you.",product,high
+"Hello support, I cannot log in to my account and need help. this must be resolved right away. I would appreciate your support.",account,high
+"Hi team, I forgot my password and need an account reset. I cannot continue until this is fixed.",account,high
+"Please help me, The invoice total is different from what I expected. I need help immediately. Please assist.",billing,high
+"I need assistance, I am unable to access my customer account. I cannot continue until this is fixed. Thanks for your help.",account,high
+"I need assistance, I need information about the product features. there is no immediate rush. Thank you.",product,low
+"Hi team, The website is showing a technical error. this can be handled later. Thank you.",technical,low
+"Customer support, I am unable to access my customer account. I cannot continue until this is fixed. Thank you.",account,high
+"Customer support, I was charged twice for the same order. when convenient. Please assist.",billing,low
+"Please help me, My account is locked and I cannot access it. please check this issue today. Thank you.",account,medium
+"Hello support, I want to report a problem with the product. this must be resolved right away. Thanks for your help.",product,high
+"Hello support, I am getting a server error when trying to continue. I need help today. I would appreciate your support.",technical,medium
+"Please help me, I want to report a problem with the product. I have an important payment due today. I would appreciate your support.",product,high
+"Hello support, I need a refund for an incorrect charge. please treat this as high priority. Thanks for your help.",billing,high
+"I need assistance, My payment was declined but the amount was deducted. please respond when possible. Please assist.",billing,low
+"Hi team, I need technical support for an application issue. I have an important payment due today. I would appreciate your support.",technical,high
+"Please help me, I am unable to access my customer account. when convenient.",account,low
+"Hi team, I need information about the product features. this is affecting my work. I would appreciate your support.",product,medium
+"Please help me, The application crashes when I open it. this must be resolved right away. Please assist.",technical,high
+"Please help me, The app is very slow and stops responding. this is affecting my work. I would appreciate your support.",technical,medium
+"Hello support, I need a refund for an incorrect charge. when convenient. Thanks for your help.",billing,low
+"Please help me, There is an unexpected charge on my bill. this is affecting my work. Thank you.",billing,medium
+"I need assistance, I was charged twice for the same order. this must be resolved right away. I would appreciate your support.",billing,high
+"Customer support, I cannot log in to my account and need help. please respond soon. Please assist.",account,medium
+"I need assistance, The application crashes when I open it. I have an important payment due today.",technical,high
+"I need assistance, My payment was declined but the amount was deducted. I have an important payment due today. Thanks for your help.",billing,high
+"I need assistance, I need technical support for an application issue. I would appreciate a normal response.",technical,low
+"Hi team, Please check a billing error on my account. I need help immediately.",billing,high
+"I need assistance, The application crashes when I open it. I would appreciate a normal response. I would appreciate your support. Reference ticket available on request.",technical,low
+"Customer support, The item is missing an important component. I would like this resolved as soon as possible. I would appreciate your support.",product,medium
+"Hi team, The app is very slow and stops responding. there is no immediate rush. Please assist.",technical,low
+"I need assistance, My profile information is incorrect and I need it updated. please respond when possible.",account,low
+"Please help me, The application crashes when I open it. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Please help me, The website is showing a technical error. please respond when possible. Please assist.",technical,low
+"Hello support, I need information about the product features. when convenient.",product,low
+"I need assistance, My profile information is incorrect and I need it updated. please check this issue today.",account,medium
+"Customer support, I received the wrong product in my order. please check this issue today.",product,medium
+"I need assistance, I need information about the product features. there is no immediate rush. Please assist.",product,low
+"Please help me, I need help using the product correctly. please respond when possible. I would appreciate your support.",product,low
+"Hello support, I need a refund for an incorrect charge. this is urgent. Thanks for your help.",billing,high
+"Hi team, There is an unexpected charge on my bill. this can be handled later. Thank you.",billing,low
+"Hi team, The website is showing a technical error. I have an important payment due today. Thanks for your help.",technical,high
+"Hi team, I cannot connect to the service because of an error. I cannot continue until this is fixed. Thank you.",technical,high
+"Hello support, I need help understanding my invoice. I would like this resolved as soon as possible.",billing,medium
+"I need assistance, My subscription payment has a billing issue. this must be resolved right away. I would appreciate your support.",billing,high
+"Please help me, I want to report a problem with the product. I need help immediately. I would appreciate your support.",product,high
+"Customer support, I received the wrong product in my order. please treat this as high priority. I would appreciate your support.",product,high
+"Customer support, Please help me recover access to my account. I would appreciate a normal response.",account,low
+"Hi team, I cannot connect to the service because of an error. please check this issue today. Please assist.",technical,medium
+"Please help me, I need technical support for an application issue. this is urgent. I would appreciate your support.",technical,high
+"Customer support, I received the wrong product in my order. I would appreciate a normal response. Please assist.",product,low
+"I need assistance, My subscription payment has a billing issue. when convenient. Thank you.",billing,low
+"Hi team, I need help using the product correctly. this must be resolved right away.",product,high
+"Please help me, The website is showing a technical error. I would like this resolved as soon as possible.",technical,medium
+"Customer support, I need information about the product features. there is no immediate rush. I would appreciate your support.",product,low
+"Hi team, The system is not working after the latest update. please check this issue today. Thanks for your help.",technical,medium
+"Customer support, The invoice total is different from what I expected. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"I need assistance, The product does not work as described. I need help immediately. I would appreciate your support.",product,high
+"Hello support, I cannot log in to my account and need help. I have an important payment due today.",account,high
+"Customer support, The app is very slow and stops responding. there is no immediate rush. I would appreciate your support. Reference ticket available on request.",technical,low
+"I need assistance, Please check a billing error on my account. this is affecting my work. Thank you.",billing,medium
+"I need assistance, The system is not working after the latest update. please check this issue today. I would appreciate your support.",technical,medium
+"Hi team, I cannot log in to my account and need help. I need help today. Thank you.",account,medium
+"Hello support, I need a refund for an incorrect charge. I would appreciate a normal response. Thanks for your help. Reference ticket available on request.",billing,low
+"Hello support, I want to report a problem with the product. I need help today. I would appreciate your support.",product,medium
+"Customer support, There is an unexpected charge on my bill. I need help immediately. Thanks for your help.",billing,high
+"I need assistance, I cannot connect to the service because of an error. I cannot continue until this is fixed. Thanks for your help.",technical,high
+"I need assistance, I need help using the product correctly. I would appreciate a normal response. Please assist.",product,low
+"I need assistance, The app is very slow and stops responding. this must be resolved right away. Thanks for your help.",technical,high
+"I need assistance, I need information about the product features. when convenient. I would appreciate your support.",product,low
+"I need assistance, I am getting a server error when trying to continue. I need help immediately. Thanks for your help.",technical,high
+"Please help me, I want to report a problem with the product. this must be resolved right away. Please assist.",product,high
+"Customer support, The product does not work as described. this can be handled later. Thanks for your help.",product,low
+"Customer support, I forgot my password and need an account reset. this is affecting my work.",account,medium
+"Please help me, The sign in page rejects my credentials. I need help immediately. Thanks for your help.",account,high
+"Hello support, I need information about the product features. this can be handled later. Thanks for your help.",product,low
+"Please help me, The product I received is damaged. this can be handled later. I would appreciate your support.",product,low
+"Hello support, I need help changing my account details. when convenient. Please assist.",account,low
+"Hi team, The sign in page rejects my credentials. I cannot continue until this is fixed.",account,high
+"Hello support, I need help understanding my invoice. please respond when possible. I would appreciate your support.",billing,low
+"I need assistance, Please help me recover access to my account. when convenient. Reference ticket available on request.",account,low
+"Please help me, The invoice total is different from what I expected. please check this issue today. Thanks for your help.",billing,medium
+"Hi team, My account is locked and I cannot access it. when convenient. Thanks for your help.",account,low
+"Hi team, Please help me with a product replacement. I need help today.",product,medium
+"Please help me, The website is showing a technical error. I would appreciate a normal response. Thank you.",technical,low
+"Customer support, I was charged twice for the same order. I cannot continue until this is fixed. Please assist.",billing,high
+"Please help me, I need help understanding my invoice. please treat this as high priority. Thank you.",billing,high
+"Hello support, The product I received is damaged. I have an important payment due today. Please assist.",product,high
+"Customer support, I need technical support for an application issue. please check this issue today.",technical,medium
+"Hi team, Please help me with a product replacement. please treat this as high priority. Thanks for your help.",product,high
+"I need assistance, The invoice total is different from what I expected. this must be resolved right away. Thanks for your help. Reference ticket available on request.",billing,high
+"Customer support, My account is locked and I cannot access it. I cannot continue until this is fixed. Please assist.",account,high
+"Hi team, The page fails to load correctly. when convenient.",technical,low
+"Customer support, Please check a billing error on my account. I need help today. Thank you.",billing,medium
+"Hello support, Please help me recover access to my account. please respond when possible. Thank you.",account,low
+"Please help me, I need technical support for an application issue. this is affecting my work.",technical,medium
+"Hi team, The item is missing an important component. I need help immediately. I would appreciate your support.",product,high
+"Hello support, Please help me with a product replacement. please check this issue today. Thanks for your help.",product,medium
+"Hi team, Please help me with a product replacement. I have an important payment due today. Thank you.",product,high
+"I need assistance, I want to report a problem with the product. there is no immediate rush. I would appreciate your support.",product,low
+"I need assistance, My subscription payment has a billing issue. please respond when possible. I would appreciate your support.",billing,low
+"Hi team, I need technical support for an application issue. this can be handled later. Thanks for your help.",technical,low
+"Hi team, I need help understanding my invoice. there is no immediate rush.",billing,low
+"I need assistance, The product does not work as described. please check this issue today. Thanks for your help.",product,medium
+"Please help me, I need information about the product features. this can be handled later. I would appreciate your support.",product,low
+"Hello support, The product I received is damaged. please respond when possible. I would appreciate your support.",product,low
+"I need assistance, The sign in page rejects my credentials. please respond when possible. Please assist.",account,low
+"Hello support, My subscription payment has a billing issue. I need help today. Please assist.",billing,medium
+"Please help me, The product does not work as described. I have an important payment due today. Thank you.",product,high
+"Please help me, I need help understanding my invoice. please respond soon. Thank you.",billing,medium
+"Hi team, My subscription payment has a billing issue. there is no immediate rush.",billing,low
+"Hi team, The product I received is damaged. I cannot continue until this is fixed. Thanks for your help.",product,high
+"Customer support, The system is not working after the latest update. when convenient. Thanks for your help.",technical,low
+"Customer support, My payment was declined but the amount was deducted. I cannot continue until this is fixed.",billing,high
+"Customer support, I am unable to access my customer account. I need help immediately. I would appreciate your support.",account,high
+"Please help me, I forgot my password and need an account reset. I would like this resolved as soon as possible. Please assist.",account,medium
+"Hi team, I forgot my password and need an account reset. this can be handled later. Thanks for your help.",account,low
+"Customer support, My payment was declined but the amount was deducted. please respond when possible. Thank you.",billing,low
+"Please help me, I need help understanding my invoice. this is affecting my work. Reference ticket available on request.",billing,medium
+"Please help me, The app is very slow and stops responding. this must be resolved right away. Thanks for your help.",technical,high
+"I need assistance, I need technical support for an application issue. there is no immediate rush.",technical,low
+"Please help me, The item is missing an important component. when convenient. Please assist.",product,low
+"Hi team, Please help me recover access to my account. I would like this resolved as soon as possible.",account,medium
+"Hi team, The website is showing a technical error. I would appreciate a normal response.",technical,low
+"Hello support, My payment was declined but the amount was deducted. this is urgent. I would appreciate your support.",billing,high
+"Please help me, I need information about the product features. I cannot continue until this is fixed.",product,high
+"Customer support, I need information about the product features. this is urgent.",product,high
+"Hello support, My payment was declined but the amount was deducted. this can be handled later. Thanks for your help.",billing,low
+"I need assistance, I need help changing my account details. I cannot continue until this is fixed. Please assist.",account,high
+"Customer support, The item is missing an important component. when convenient.",product,low
+"Please help me, I need information about the product features. this can be handled later.",product,low
+"Customer support, My account is locked and I cannot access it. this is urgent.",account,high
+"Please help me, The sign in page rejects my credentials. I have an important payment due today. Please assist.",account,high
+"I need assistance, I was charged twice for the same order. I cannot continue until this is fixed. Thanks for your help.",billing,high
+"Hello support, I was charged twice for the same order. when convenient. Thanks for your help.",billing,low
+"Hi team, I cannot connect to the service because of an error. I need help immediately. Please assist.",technical,high
+"Hello support, I forgot my password and need an account reset. this can be handled later. Thank you.",account,low
+"Please help me, The product I received is damaged. this is affecting my work. Thank you.",product,medium
+"Customer support, I need technical support for an application issue. I need help today. I would appreciate your support.",technical,medium
+"Hello support, I am getting a server error when trying to continue. when convenient. Please assist. Reference ticket available on request.",technical,low
+"Hello support, Please help me recover access to my account. there is no immediate rush. I would appreciate your support.",account,low
+"Hi team, The invoice total is different from what I expected. I need help immediately. I would appreciate your support.",billing,high
+"I need assistance, I cannot connect to the service because of an error. this is urgent. I would appreciate your support.",technical,high
+"Customer support, I was charged twice for the same order. please respond when possible. I would appreciate your support.",billing,low
+"Hello support, The invoice total is different from what I expected. there is no immediate rush. I would appreciate your support.",billing,low
+"Hello support, There is an unexpected charge on my bill. I have an important payment due today. Please assist.",billing,high
+"I need assistance, The product I received is damaged. I have an important payment due today.",product,high
+"I need assistance, The app is very slow and stops responding. I have an important payment due today. I would appreciate your support.",technical,high
+"Hello support, I cannot connect to the service because of an error. this can be handled later. Thanks for your help.",technical,low
+"Customer support, I need information about the product features. when convenient. Please assist.",product,low
+"Hello support, I cannot connect to the service because of an error. there is no immediate rush. I would appreciate your support.",technical,low
+"Hello support, I cannot connect to the service because of an error. this is affecting my work. I would appreciate your support.",technical,medium
+"Hi team, I cannot log in to my account and need help. please check this issue today. Thanks for your help.",account,medium
+"Customer support, The invoice total is different from what I expected. this is affecting my work.",billing,medium
+"Hi team, My subscription payment has a billing issue. this can be handled later. Please assist.",billing,low
+"Customer support, The item is missing an important component. please respond when possible. Please assist.",product,low
+"I need assistance, The product does not work as described. I have an important payment due today. Please assist.",product,high
+"Please help me, Please check a billing error on my account. I cannot continue until this is fixed. Thank you.",billing,high
+"Hello support, I need a refund for an incorrect charge. this must be resolved right away. I would appreciate your support. Reference ticket available on request.",billing,high
+"I need assistance, I am unable to access my customer account. there is no immediate rush. I would appreciate your support.",account,low
+"Hi team, I need technical support for an application issue. I would appreciate a normal response.",technical,low
+"Hi team, The system is not working after the latest update. please respond when possible. Thanks for your help.",technical,low
+"Customer support, The sign in page rejects my credentials. please treat this as high priority. Thanks for your help.",account,high
+"Customer support, The app is very slow and stops responding. this is affecting my work. I would appreciate your support.",technical,medium
+"Customer support, My profile information is incorrect and I need it updated. I need help immediately. Thank you.",account,high
+"I need assistance, Please help me recover access to my account. when convenient. Please assist.",account,low
+"Please help me, I need technical support for an application issue. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Hello support, I cannot connect to the service because of an error. I cannot continue until this is fixed. Thanks for your help.",technical,high
+"I need assistance, The sign in page rejects my credentials. I have an important payment due today. Please assist.",account,high
+"I need assistance, I need help understanding my invoice. I would like this resolved as soon as possible.",billing,medium
+"Please help me, There is an unexpected charge on my bill. I need help immediately. I would appreciate your support.",billing,high
+"Customer support, I am unable to access my customer account. please treat this as high priority. Thanks for your help.",account,high
+"Hi team, The app is very slow and stops responding. this is affecting my work.",technical,medium
+"I need assistance, My account is locked and I cannot access it. please treat this as high priority. Thanks for your help.",account,high
+"Please help me, The page fails to load correctly. I need help immediately. Please assist.",technical,high
+"Customer support, The product does not work as described. there is no immediate rush.",product,low
+"Customer support, My subscription payment has a billing issue. when convenient. I would appreciate your support.",billing,low
+"Hello support, I need help using the product correctly. this is urgent. I would appreciate your support.",product,high
+"Hello support, The page fails to load correctly. I would appreciate a normal response. Please assist.",technical,low
+"Hello support, I cannot log in to my account and need help. this is affecting my work. Thanks for your help.",account,medium
+"Hello support, Please check a billing error on my account. I need help today. Thanks for your help.",billing,medium
+"Hello support, My profile information is incorrect and I need it updated. I cannot continue until this is fixed. Thank you.",account,high
+"Hi team, My profile information is incorrect and I need it updated. I would appreciate a normal response. Thanks for your help.",account,low
+"Please help me, I was charged twice for the same order. please respond soon. Thank you.",billing,medium
+"I need assistance, I cannot log in to my account and need help. please check this issue today. Thank you.",account,medium
+"Please help me, I received the wrong product in my order. when convenient. I would appreciate your support. Reference ticket available on request.",product,low
+"I need assistance, My profile information is incorrect and I need it updated. I cannot continue until this is fixed. Please assist.",account,high
+"I need assistance, The page fails to load correctly. I would appreciate a normal response. Thank you.",technical,low
+"Customer support, The product I received is damaged. I need help today. I would appreciate your support.",product,medium
+"Hello support, I want to report a problem with the product. I have an important payment due today.",product,high
+"Hello support, Please check a billing error on my account. this is urgent. I would appreciate your support.",billing,high
+"Please help me, I need help using the product correctly. please respond when possible. I would appreciate your support.",product,low
+"Hi team, There is an unexpected charge on my bill. there is no immediate rush.",billing,low
+"I need assistance, I need help changing my account details. this can be handled later. Please assist.",account,low
+"Please help me, My payment was declined but the amount was deducted. this must be resolved right away. Thanks for your help.",billing,high
+"Hi team, Please check a billing error on my account. please respond when possible. Thank you.",billing,low
+"Hi team, I need technical support for an application issue. this is affecting my work. Thank you.",technical,medium
+"Hello support, I need information about the product features. please check this issue today. Thanks for your help.",product,medium
+"Hi team, The product I received is damaged. please respond when possible.",product,low
+"I need assistance, I need help changing my account details. please treat this as high priority. I would appreciate your support.",account,high
+"Hi team, I need technical support for an application issue. please respond soon. I would appreciate your support.",technical,medium
+"Please help me, There is an unexpected charge on my bill. this must be resolved right away. Thanks for your help.",billing,high
+"Hi team, I cannot log in to my account and need help. this is urgent. Please assist.",account,high
+"Please help me, The app is very slow and stops responding. I cannot continue until this is fixed. Thanks for your help.",technical,high
+"Customer support, There is an unexpected charge on my bill. when convenient.",billing,low
+"Hi team, I need help using the product correctly. when convenient. Please assist.",product,low
+"Hi team, The invoice total is different from what I expected. I have an important payment due today.",billing,high
+"I need assistance, The invoice total is different from what I expected. I need help immediately. Thank you.",billing,high
+"Please help me, The sign in page rejects my credentials. when convenient. Thanks for your help.",account,low
+"Hello support, The sign in page rejects my credentials. please treat this as high priority. Thank you.",account,high
+"Hi team, The website is showing a technical error. this must be resolved right away. Thank you.",technical,high
+"I need assistance, The invoice total is different from what I expected. please check this issue today. Thank you.",billing,medium
+"Hi team, The application crashes when I open it. there is no immediate rush. Thank you.",technical,low
+"I need assistance, I need information about the product features. this must be resolved right away.",product,high
+"Hello support, I want to report a problem with the product. please respond when possible. Please assist.",product,low
+"Hello support, My payment was declined but the amount was deducted. please respond when possible. I would appreciate your support.",billing,low
+"Hi team, Please help me recover access to my account. I have an important payment due today. Thanks for your help.",account,high
+"Hi team, I need information about the product features. this is urgent. I would appreciate your support.",product,high
+"Hi team, I need help understanding my invoice. there is no immediate rush.",billing,low
+"Hi team, My payment was declined but the amount was deducted. this must be resolved right away.",billing,high
+"I need assistance, My profile information is incorrect and I need it updated. this is affecting my work. Thanks for your help.",account,medium
+"Hello support, The product I received is damaged. this can be handled later. Thanks for your help.",product,low
+"I need assistance, The product does not work as described. I need help today.",product,medium
+"Please help me, The website is showing a technical error. I need help today. Thank you.",technical,medium
+"Customer support, The page fails to load correctly. I would like this resolved as soon as possible. I would appreciate your support.",technical,medium
+"Hi team, I want to report a problem with the product. this is urgent. Please assist.",product,high
+"I need assistance, Please help me recover access to my account. this can be handled later. Thanks for your help.",account,low
+"Hello support, Please check a billing error on my account. please treat this as high priority. Thanks for your help.",billing,high
+"Customer support, I cannot log in to my account and need help. this can be handled later.",account,low
+"Hello support, I need a refund for an incorrect charge. I would appreciate a normal response. Thanks for your help.",billing,low
+"Hi team, The app is very slow and stops responding. I would appreciate a normal response. Thanks for your help.",technical,low
+"Hi team, The item is missing an important component. please respond when possible. Thank you.",product,low
+"I need assistance, I cannot log in to my account and need help. please check this issue today. Please assist.",account,medium
+"Hi team, The product I received is damaged. there is no immediate rush.",product,low
+"Customer support, I need a refund for an incorrect charge. this is urgent. I would appreciate your support.",billing,high
+"Please help me, The application crashes when I open it. I need help today. I would appreciate your support.",technical,medium
+"Hello support, The application crashes when I open it. when convenient. I would appreciate your support.",technical,low
+"Hello support, The product I received is damaged. please treat this as high priority. Thank you.",product,high
+"Hello support, My account is locked and I cannot access it. this is affecting my work. I would appreciate your support.",account,medium
+"I need assistance, Please check a billing error on my account. please respond when possible. Please assist.",billing,low
+"Hi team, Please help me recover access to my account. I would like this resolved as soon as possible. Thank you.",account,medium
+"I need assistance, The app is very slow and stops responding. please treat this as high priority. Please assist.",technical,high
+"Please help me, Please help me with a product replacement. please respond when possible. Thank you.",product,low
+"Hi team, I forgot my password and need an account reset. this is urgent. Please assist.",account,high
+"Please help me, The item is missing an important component. when convenient. Thanks for your help.",product,low
+"Customer support, Please help me recover access to my account. I have an important payment due today. Thanks for your help.",account,high
+"Please help me, I need help changing my account details. there is no immediate rush. Thank you.",account,low
+"Please help me, The system is not working after the latest update. I need help immediately.",technical,high
+"Hello support, I need help changing my account details. I need help immediately. I would appreciate your support.",account,high
+"Please help me, I cannot log in to my account and need help. please treat this as high priority. Thanks for your help.",account,high
+"Hello support, The website is showing a technical error. I would like this resolved as soon as possible. Thanks for your help.",technical,medium
+"Customer support, Please check a billing error on my account. please respond when possible.",billing,low
+"Customer support, I received the wrong product in my order. I need help immediately. Please assist. Reference ticket available on request.",product,high
+"Hello support, I need help understanding my invoice. please respond soon.",billing,medium
+"Hi team, I need technical support for an application issue. this must be resolved right away.",technical,high
+"Hi team, The product I received is damaged. I cannot continue until this is fixed. I would appreciate your support.",product,high
+"I need assistance, I cannot connect to the service because of an error. I would appreciate a normal response. Please assist.",technical,low
+"Customer support, I need a refund for an incorrect charge. I would like this resolved as soon as possible.",billing,medium
+"I need assistance, The sign in page rejects my credentials. when convenient. Please assist.",account,low
+"I need assistance, I need a refund for an incorrect charge. I need help today. Thanks for your help. Reference ticket available on request.",billing,medium
+"Hello support, Please help me with a product replacement. I need help immediately. Please assist. Reference ticket available on request.",product,high
+"Hi team, I want to report a problem with the product. please treat this as high priority. Thank you.",product,high
+"I need assistance, The page fails to load correctly. I would appreciate a normal response. Thank you.",technical,low
+"Hello support, I forgot my password and need an account reset. please respond when possible. Thanks for your help.",account,low
+"I need assistance, I need help using the product correctly. please treat this as high priority. I would appreciate your support.",product,high
+"Hello support, My subscription payment has a billing issue. this is urgent. Thanks for your help.",billing,high
+"Hello support, Please help me with a product replacement. this can be handled later. Thank you.",product,low
+"Hello support, I am unable to access my customer account. when convenient. Thank you.",account,low
+"Customer support, I need help understanding my invoice. this is urgent. Please assist.",billing,high
+"Hello support, The product does not work as described. I would appreciate a normal response. I would appreciate your support.",product,low
+"Hi team, I need help understanding my invoice. please check this issue today. Thanks for your help.",billing,medium
+"Hi team, I forgot my password and need an account reset. I would appreciate a normal response. Thanks for your help.",account,low
+"Customer support, I cannot log in to my account and need help. when convenient. Please assist.",account,low
+"I need assistance, I need technical support for an application issue. I would appreciate a normal response. Thanks for your help.",technical,low
+"Customer support, My subscription payment has a billing issue. this is urgent.",billing,high
+"Hi team, The sign in page rejects my credentials. this can be handled later. Thanks for your help.",account,low
+"I need assistance, I need a refund for an incorrect charge. please respond soon.",billing,medium
+"Customer support, I cannot log in to my account and need help. this is urgent. Thank you.",account,high
+"Hello support, My account is locked and I cannot access it. when convenient. I would appreciate your support.",account,low
+"Please help me, Please check a billing error on my account. this is affecting my work. Thanks for your help.",billing,medium
+"Hello support, The product does not work as described. when convenient.",product,low
+"Hello support, The website is showing a technical error. please respond when possible. Please assist.",technical,low
+"Hi team, I need help changing my account details. I need help today. Please assist.",account,medium
+"Hello support, Please help me with a product replacement. I need help immediately. Reference ticket available on request.",product,high
+"Please help me, I need help changing my account details. please respond soon. Thank you.",account,medium
+"Hi team, I need a refund for an incorrect charge. please respond when possible. Please assist.",billing,low
+"Customer support, The app is very slow and stops responding. please respond when possible. I would appreciate your support.",technical,low
+"Hello support, I was charged twice for the same order. I would like this resolved as soon as possible. Thank you.",billing,medium
+"I need assistance, The item is missing an important component. please treat this as high priority. I would appreciate your support.",product,high
+"Hi team, I forgot my password and need an account reset. I cannot continue until this is fixed. I would appreciate your support.",account,high
+"Hello support, Please help me with a product replacement. this can be handled later. I would appreciate your support.",product,low
+"Hello support, I received the wrong product in my order. this can be handled later. Thanks for your help.",product,low
+"Hello support, I need help understanding my invoice. please respond when possible. Please assist.",billing,low
+"Hi team, My payment was declined but the amount was deducted. this must be resolved right away. I would appreciate your support.",billing,high
+"Hi team, The system is not working after the latest update. there is no immediate rush.",technical,low
+"Hi team, I cannot log in to my account and need help. this must be resolved right away. Thank you.",account,high
+"Customer support, My payment was declined but the amount was deducted. this is urgent. Please assist. Reference ticket available on request.",billing,high
+"Please help me, Please help me with a product replacement. I would appreciate a normal response.",product,low
+"Customer support, I need help changing my account details. I need help today. I would appreciate your support.",account,medium
+"Customer support, My account is locked and I cannot access it. there is no immediate rush. Thanks for your help.",account,low
+"Please help me, The page fails to load correctly. I cannot continue until this is fixed. Thank you. Reference ticket available on request.",technical,high
+"Customer support, I need technical support for an application issue. this can be handled later. Thank you.",technical,low
+"Hi team, The system is not working after the latest update. this is urgent. Thank you.",technical,high
+"Please help me, The sign in page rejects my credentials. I need help today.",account,medium
+"Customer support, My profile information is incorrect and I need it updated. I have an important payment due today.",account,high
+"Hi team, The sign in page rejects my credentials. I would like this resolved as soon as possible. Thanks for your help.",account,medium
+"Customer support, I need a refund for an incorrect charge. I cannot continue until this is fixed.",billing,high
+"Customer support, I cannot log in to my account and need help. I cannot continue until this is fixed. Thanks for your help.",account,high
+"Please help me, The sign in page rejects my credentials. when convenient. Thank you.",account,low
+"Please help me, Please help me recover access to my account. this is urgent. Thank you.",account,high
+"Hi team, I cannot log in to my account and need help. this must be resolved right away. Thank you.",account,high
+"Hi team, I cannot log in to my account and need help. I would appreciate a normal response. Thanks for your help.",account,low
+"Please help me, The invoice total is different from what I expected. I would appreciate a normal response. Thanks for your help.",billing,low
+"I need assistance, My payment was declined but the amount was deducted. I need help immediately. I would appreciate your support.",billing,high
+"Hi team, My profile information is incorrect and I need it updated. please treat this as high priority. I would appreciate your support.",account,high
+"I need assistance, I need help using the product correctly. this can be handled later. Thanks for your help.",product,low
+"I need assistance, I need a refund for an incorrect charge. this can be handled later. Please assist.",billing,low
+"Hi team, I need help changing my account details. please respond soon. Please assist.",account,medium
+"I need assistance, The sign in page rejects my credentials. I would like this resolved as soon as possible. Thanks for your help.",account,medium
+"I need assistance, I want to report a problem with the product. this must be resolved right away. I would appreciate your support.",product,high
+"Please help me, The page fails to load correctly. I need help immediately. Thank you.",technical,high
+"Please help me, The website is showing a technical error. this must be resolved right away. Please assist.",technical,high
+"Hello support, I forgot my password and need an account reset. please respond when possible. I would appreciate your support.",account,low
+"Please help me, I was charged twice for the same order. I need help immediately.",billing,high
+"Hi team, I cannot connect to the service because of an error. please check this issue today.",technical,medium
+"Please help me, I need help understanding my invoice. I have an important payment due today.",billing,high
+"Hello support, My account is locked and I cannot access it. this is affecting my work.",account,medium
+"Customer support, I need help understanding my invoice. this is affecting my work.",billing,medium
+"Please help me, I cannot connect to the service because of an error. please treat this as high priority. Thanks for your help.",technical,high
+"Please help me, The product I received is damaged. this must be resolved right away.",product,high
+"Customer support, The sign in page rejects my credentials. there is no immediate rush. I would appreciate your support.",account,low
+"I need assistance, I need information about the product features. I need help today. Thank you.",product,medium
+"I need assistance, I need help changing my account details. there is no immediate rush. Thank you. Reference ticket available on request.",account,low
+"Hi team, I need information about the product features. I have an important payment due today. Thanks for your help.",product,high
+"Hello support, The application crashes when I open it. I would like this resolved as soon as possible. Thanks for your help.",technical,medium
+"Customer support, I cannot log in to my account and need help. please check this issue today. I would appreciate your support.",account,medium
+"Customer support, I need a refund for an incorrect charge. please respond soon. Please assist.",billing,medium
+"Hello support, My profile information is incorrect and I need it updated. I would appreciate a normal response.",account,low
+"Hi team, The product I received is damaged. please respond when possible. Thanks for your help. Reference ticket available on request.",product,low
+"Hello support, Please check a billing error on my account. there is no immediate rush.",billing,low
+"Customer support, The item is missing an important component. I need help today. Please assist.",product,medium
+"Hello support, The website is showing a technical error. this must be resolved right away. Thanks for your help.",technical,high
+"Customer support, The invoice total is different from what I expected. this can be handled later. Please assist.",billing,low
+"I need assistance, I need help understanding my invoice. I would appreciate a normal response. Thanks for your help.",billing,low
+"Customer support, I am unable to access my customer account. I need help immediately. Please assist.",account,high
+"I need assistance, I received the wrong product in my order. please respond soon. Thanks for your help.",product,medium
+"Customer support, I was charged twice for the same order. please respond soon. Thank you.",billing,medium
+"Hello support, The item is missing an important component. this is urgent. Please assist.",product,high
+"Please help me, The application crashes when I open it. this is urgent. Please assist.",technical,high
+"Customer support, My payment was declined but the amount was deducted. I have an important payment due today. I would appreciate your support.",billing,high
+"Hi team, I need technical support for an application issue. I would like this resolved as soon as possible. Thanks for your help.",technical,medium
+"Please help me, I forgot my password and need an account reset. I cannot continue until this is fixed. Thanks for your help.",account,high
+"Hi team, The website is showing a technical error. I would appreciate a normal response.",technical,low
+"Hello support, I need technical support for an application issue. when convenient. Thank you.",technical,low
+"Hi team, I received the wrong product in my order. I would like this resolved as soon as possible. I would appreciate your support. Reference ticket available on request.",product,medium
+"Hello support, The item is missing an important component. please respond when possible. I would appreciate your support.",product,low
+"Hi team, I forgot my password and need an account reset. please respond when possible. Please assist.",account,low
+"I need assistance, The page fails to load correctly. I would appreciate a normal response. Please assist.",technical,low
+"Please help me, I am unable to access my customer account. I need help today.",account,medium
+"I need assistance, I want to report a problem with the product. there is no immediate rush. Thank you.",product,low
+"I need assistance, I cannot log in to my account and need help. I need help immediately. Thank you.",account,high
+"Please help me, The app is very slow and stops responding. I have an important payment due today. Please assist. Reference ticket available on request.",technical,high
+"Customer support, The sign in page rejects my credentials. there is no immediate rush. Reference ticket available on request.",account,low
+"Hello support, Please help me recover access to my account. please respond soon.",account,medium
+"I need assistance, I need help using the product correctly. please respond when possible. I would appreciate your support.",product,low
+"Hello support, My payment was declined but the amount was deducted. I would appreciate a normal response. Please assist.",billing,low
+"Customer support, I need help using the product correctly. please respond when possible. Please assist.",product,low
+"Please help me, I am unable to access my customer account. please treat this as high priority. I would appreciate your support.",account,high
+"Hi team, Please help me recover access to my account. please respond soon. Reference ticket available on request.",account,medium
+"Hello support, I need help using the product correctly. please respond when possible. I would appreciate your support.",product,low
+"Hi team, I need help understanding my invoice. please respond when possible. I would appreciate your support.",billing,low
+"Please help me, I cannot log in to my account and need help. please check this issue today. Thanks for your help.",account,medium
+"Hi team, I received the wrong product in my order. please treat this as high priority. Thank you.",product,high
+"Please help me, The system is not working after the latest update. when convenient.",technical,low
+"Hi team, Please help me with a product replacement. there is no immediate rush. Thanks for your help.",product,low
+"Hi team, I need technical support for an application issue. this is affecting my work. Thank you.",technical,medium
+"Please help me, My payment was declined but the amount was deducted. please check this issue today. I would appreciate your support.",billing,medium
+"Customer support, I am getting a server error when trying to continue. this is urgent. Thanks for your help.",technical,high
+"Hi team, I forgot my password and need an account reset. when convenient. Thank you.",account,low
+"Hi team, My payment was declined but the amount was deducted. this is urgent. Thanks for your help.",billing,high
+"Hi team, The product does not work as described. I cannot continue until this is fixed. I would appreciate your support.",product,high
+"I need assistance, Please check a billing error on my account. this is urgent. Please assist.",billing,high
+"I need assistance, I cannot connect to the service because of an error. I have an important payment due today. Thank you.",technical,high
+"Please help me, The website is showing a technical error. please respond when possible. I would appreciate your support.",technical,low
+"Please help me, I need a refund for an incorrect charge. please respond soon. Thank you.",billing,medium
+"Please help me, I cannot connect to the service because of an error. this must be resolved right away. I would appreciate your support.",technical,high
+"Customer support, The invoice total is different from what I expected. I cannot continue until this is fixed. Thanks for your help.",billing,high
+"Please help me, I need help changing my account details. please respond when possible. Thanks for your help.",account,low
+"Customer support, There is an unexpected charge on my bill. this can be handled later. Please assist.",billing,low
+"Hello support, My account is locked and I cannot access it. please respond soon. I would appreciate your support.",account,medium
+"I need assistance, The product does not work as described. I need help today. Thank you.",product,medium
+"Hello support, I need help using the product correctly. this must be resolved right away.",product,high
+"Hello support, I need a refund for an incorrect charge. I cannot continue until this is fixed.",billing,high
+"Hi team, I am unable to access my customer account. when convenient. Please assist.",account,low
+"Customer support, My profile information is incorrect and I need it updated. I cannot continue until this is fixed.",account,high
+"Hello support, The invoice total is different from what I expected. please respond when possible. Thanks for your help.",billing,low
+"Hi team, The system is not working after the latest update. I need help today.",technical,medium
+"Hi team, I am unable to access my customer account. I need help immediately. Thank you.",account,high
+"Please help me, The product does not work as described. I cannot continue until this is fixed. I would appreciate your support.",product,high
+"I need assistance, I cannot connect to the service because of an error. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Customer support, I want to report a problem with the product. this can be handled later. Thanks for your help.",product,low
+"Hi team, My payment was declined but the amount was deducted. please respond when possible. Thanks for your help.",billing,low
+"I need assistance, My subscription payment has a billing issue. please check this issue today. Thanks for your help.",billing,medium
+"Customer support, I want to report a problem with the product. this is affecting my work. Please assist.",product,medium
+"Hello support, My payment was declined but the amount was deducted. this is affecting my work. I would appreciate your support.",billing,medium
+"I need assistance, I forgot my password and need an account reset. when convenient.",account,low
+"Hello support, I need help changing my account details. when convenient.",account,low
+"Customer support, I need help changing my account details. this can be handled later. Thanks for your help.",account,low
+"Hi team, The app is very slow and stops responding. when convenient. I would appreciate your support.",technical,low
+"Hello support, I am unable to access my customer account. this is urgent. Thank you.",account,high
+"Customer support, The app is very slow and stops responding. this can be handled later.",technical,low
+"Hello support, The product does not work as described. I need help immediately. Please assist.",product,high
+"Please help me, I need help changing my account details. when convenient. I would appreciate your support.",account,low
+"Please help me, I need a refund for an incorrect charge. I would appreciate a normal response. Thank you.",billing,low
+"Hi team, I am unable to access my customer account. I would appreciate a normal response. Thanks for your help.",account,low
+"Customer support, I need information about the product features. this is affecting my work. Thank you.",product,medium
+"Hello support, The invoice total is different from what I expected. please respond when possible. Thanks for your help.",billing,low
+"Please help me, The invoice total is different from what I expected. I would appreciate a normal response. Please assist.",billing,low
+"Customer support, The item is missing an important component. there is no immediate rush. Thank you.",product,low
+"I need assistance, My subscription payment has a billing issue. this is urgent.",billing,high
+"I need assistance, I need help understanding my invoice. there is no immediate rush. I would appreciate your support.",billing,low
+"Hello support, My profile information is incorrect and I need it updated. please check this issue today. I would appreciate your support.",account,medium
+"Hello support, Please check a billing error on my account. I have an important payment due today. I would appreciate your support. Reference ticket available on request.",billing,high
+"Customer support, The system is not working after the latest update. this is affecting my work. Please assist.",technical,medium
+"Hi team, I am unable to access my customer account. please treat this as high priority. Please assist.",account,high
+"Hi team, The application crashes when I open it. when convenient.",technical,low
+"Hi team, The page fails to load correctly. I would like this resolved as soon as possible.",technical,medium
+"Hi team, The sign in page rejects my credentials. I cannot continue until this is fixed. I would appreciate your support.",account,high
+"Hello support, The system is not working after the latest update. please respond when possible. I would appreciate your support.",technical,low
+"Please help me, The page fails to load correctly. I need help today. Thank you.",technical,medium
+"Hi team, I need information about the product features. I need help today. Thank you.",product,medium
+"I need assistance, My subscription payment has a billing issue. when convenient. Thanks for your help.",billing,low
+"Hello support, I need help understanding my invoice. please respond when possible. Thank you.",billing,low
+"I need assistance, The invoice total is different from what I expected. please treat this as high priority. Thank you.",billing,high
+"Customer support, I cannot connect to the service because of an error. please respond when possible. Thanks for your help.",technical,low
+"I need assistance, The system is not working after the latest update. I would appreciate a normal response. Please assist.",technical,low
+"Hello support, I want to report a problem with the product. please treat this as high priority. Thank you.",product,high
+"I need assistance, My account is locked and I cannot access it. there is no immediate rush.",account,low
+"Please help me, I received the wrong product in my order. there is no immediate rush.",product,low
+"Customer support, I am unable to access my customer account. this is urgent. I would appreciate your support.",account,high
+"Customer support, I need help changing my account details. this is urgent. Thanks for your help.",account,high
+"Hi team, My profile information is incorrect and I need it updated. please respond soon. Thanks for your help.",account,medium
+"I need assistance, I was charged twice for the same order. this can be handled later. Thanks for your help.",billing,low
+"Please help me, My subscription payment has a billing issue. this must be resolved right away.",billing,high
+"Hello support, I need help using the product correctly. this can be handled later.",product,low
+"I need assistance, The invoice total is different from what I expected. please respond soon. I would appreciate your support.",billing,medium
+"Hi team, The sign in page rejects my credentials. I would appreciate a normal response. Please assist.",account,low
+"Hello support, Please help me with a product replacement. please treat this as high priority. Thank you.",product,high
+"Customer support, I need help understanding my invoice. this can be handled later. Thank you.",billing,low
+"Please help me, The application crashes when I open it. this is urgent. Thanks for your help.",technical,high
+"I need assistance, Please help me with a product replacement. I would like this resolved as soon as possible. I would appreciate your support.",product,medium
+"Hi team, My subscription payment has a billing issue. please respond soon. Thank you.",billing,medium
+"Please help me, The product I received is damaged. please respond when possible.",product,low
+"Customer support, I need help understanding my invoice. please respond soon. I would appreciate your support.",billing,medium
+"Customer support, I forgot my password and need an account reset. when convenient. I would appreciate your support.",account,low
+"Customer support, I need help using the product correctly. when convenient. I would appreciate your support.",product,low
+"Hello support, I cannot log in to my account and need help. please respond soon.",account,medium
+"Hi team, The sign in page rejects my credentials. please treat this as high priority. Thank you.",account,high
+"I need assistance, There is an unexpected charge on my bill. when convenient. Thanks for your help.",billing,low
+"Hi team, I am unable to access my customer account. I would appreciate a normal response.",account,low
+"Hello support, I cannot connect to the service because of an error. I need help immediately. Thank you.",technical,high
+"I need assistance, I am getting a server error when trying to continue. please respond when possible. I would appreciate your support.",technical,low
+"I need assistance, The system is not working after the latest update. I need help today. Thanks for your help.",technical,medium
+"Hello support, Please check a billing error on my account. there is no immediate rush. Thank you.",billing,low
+"Hello support, I am getting a server error when trying to continue. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Please help me, The system is not working after the latest update. I would like this resolved as soon as possible.",technical,medium
+"I need assistance, My account is locked and I cannot access it. this must be resolved right away. I would appreciate your support.",account,high
+"Please help me, The app is very slow and stops responding. when convenient. Please assist.",technical,low
+"Please help me, I cannot log in to my account and need help. please treat this as high priority. Thanks for your help.",account,high
+"Hi team, I need information about the product features. I cannot continue until this is fixed.",product,high
+"I need assistance, The application crashes when I open it. I cannot continue until this is fixed. Please assist.",technical,high
+"Hi team, The app is very slow and stops responding. this must be resolved right away. I would appreciate your support.",technical,high
+"Customer support, I need a refund for an incorrect charge. there is no immediate rush. Please assist.",billing,low
+"Customer support, I forgot my password and need an account reset. I have an important payment due today. I would appreciate your support. Reference ticket available on request.",account,high
+"Please help me, The application crashes when I open it. when convenient. Thanks for your help.",technical,low
+"Hi team, The system is not working after the latest update. I would appreciate a normal response. Please assist.",technical,low
+"I need assistance, I need information about the product features. please respond soon. Thanks for your help.",product,medium
+"I need assistance, I need help changing my account details. this can be handled later. Thank you.",account,low
+"I need assistance, Please check a billing error on my account. this can be handled later. Please assist.",billing,low
+"Hi team, The invoice total is different from what I expected. I cannot continue until this is fixed. Thank you.",billing,high
+"Hello support, The product I received is damaged. this must be resolved right away. I would appreciate your support.",product,high
+"Hello support, The invoice total is different from what I expected. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"Customer support, I was charged twice for the same order. this can be handled later. Please assist.",billing,low
+"Hello support, I am unable to access my customer account. this is affecting my work. Thank you.",account,medium
+"Hello support, I am getting a server error when trying to continue. please check this issue today. Thank you.",technical,medium
+"Please help me, I need help understanding my invoice. this must be resolved right away. Thanks for your help.",billing,high
+"Hello support, The application crashes when I open it. this can be handled later. I would appreciate your support.",technical,low
+"Please help me, The application crashes when I open it. I need help immediately. I would appreciate your support.",technical,high
+"I need assistance, I need information about the product features. I need help immediately. Please assist. Reference ticket available on request.",product,high
+"Hi team, I need technical support for an application issue. when convenient. Please assist.",technical,low
+"I need assistance, I need help changing my account details. this is affecting my work. Thank you.",account,medium
+"I need assistance, I want to report a problem with the product. this can be handled later. Reference ticket available on request.",product,low
+"I need assistance, The invoice total is different from what I expected. this is affecting my work. Thanks for your help.",billing,medium
+"Customer support, The product I received is damaged. this can be handled later. Thank you.",product,low
+"Hi team, The product I received is damaged. when convenient. I would appreciate your support. Reference ticket available on request.",product,low
+"Hello support, I want to report a problem with the product. please respond soon.",product,medium
+"Please help me, My account is locked and I cannot access it. I need help immediately. Please assist.",account,high
+"Hello support, I need technical support for an application issue. I cannot continue until this is fixed. Thank you.",technical,high
+"Hello support, I need a refund for an incorrect charge. please treat this as high priority.",billing,high
+"I need assistance, The page fails to load correctly. I need help today.",technical,medium
+"Hi team, There is an unexpected charge on my bill. please respond when possible. Please assist.",billing,low
+"Hi team, My profile information is incorrect and I need it updated. this is urgent. Thanks for your help.",account,high
+"Hi team, I want to report a problem with the product. when convenient.",product,low
+"Customer support, I need help understanding my invoice. I need help immediately. Please assist.",billing,high
+"Please help me, The invoice total is different from what I expected. please respond when possible. Thanks for your help.",billing,low
+"I need assistance, The product I received is damaged. I would appreciate a normal response. Please assist.",product,low
+"Hello support, The website is showing a technical error. this can be handled later. Thanks for your help.",technical,low
+"Customer support, Please check a billing error on my account. I need help immediately. Please assist.",billing,high
+"Please help me, I am unable to access my customer account. this is affecting my work.",account,medium
+"Please help me, Please help me recover access to my account. please respond when possible. I would appreciate your support.",account,low
+"Customer support, I forgot my password and need an account reset. please respond when possible.",account,low
+"I need assistance, I want to report a problem with the product. I have an important payment due today. Thank you.",product,high
+"Please help me, I am getting a server error when trying to continue. I need help immediately. Please assist.",technical,high
+"Hi team, I want to report a problem with the product. this can be handled later.",product,low
+"I need assistance, I forgot my password and need an account reset. I would appreciate a normal response.",account,low
+"Please help me, I need help changing my account details. this can be handled later. Thanks for your help.",account,low
+"I need assistance, Please help me recover access to my account. this is affecting my work. I would appreciate your support.",account,medium
+"Hello support, I want to report a problem with the product. please respond when possible. Please assist.",product,low
+"I need assistance, Please check a billing error on my account. this is urgent.",billing,high
+"Please help me, My profile information is incorrect and I need it updated. this must be resolved right away. Thank you.",account,high
+"Please help me, The system is not working after the latest update. when convenient. I would appreciate your support.",technical,low
+"Please help me, I need help understanding my invoice. this is urgent. Please assist.",billing,high
+"Customer support, The system is not working after the latest update. I need help immediately. I would appreciate your support.",technical,high
+"Customer support, I cannot log in to my account and need help. I cannot continue until this is fixed. Please assist.",account,high
+"Hi team, I forgot my password and need an account reset. this is affecting my work. Thank you.",account,medium
+"I need assistance, The page fails to load correctly. there is no immediate rush. I would appreciate your support.",technical,low
+"Customer support, I cannot log in to my account and need help. I would appreciate a normal response. Please assist.",account,low
+"Please help me, I forgot my password and need an account reset. this must be resolved right away. Thank you.",account,high
+"Customer support, The website is showing a technical error. I would appreciate a normal response. Thank you.",technical,low
+"Please help me, I need help understanding my invoice. this is urgent. Thank you.",billing,high
+"Customer support, My profile information is incorrect and I need it updated. I would like this resolved as soon as possible. Please assist.",account,medium
+"I need assistance, I received the wrong product in my order. I need help immediately. I would appreciate your support.",product,high
+"Customer support, My account is locked and I cannot access it. I need help immediately.",account,high
+"Customer support, I need information about the product features. this can be handled later. I would appreciate your support.",product,low
+"Hello support, The website is showing a technical error. this is urgent. Thanks for your help.",technical,high
+"Please help me, The page fails to load correctly. I cannot continue until this is fixed. Thank you. Reference ticket available on request.",technical,high
+"I need assistance, I need help understanding my invoice. this is urgent. I would appreciate your support.",billing,high
+"Customer support, I am getting a server error when trying to continue. I have an important payment due today. Please assist.",technical,high
+"Customer support, Please help me with a product replacement. please respond when possible. Please assist. Reference ticket available on request.",product,low
+"Customer support, I need information about the product features. this is affecting my work. I would appreciate your support.",product,medium
+"Please help me, I need technical support for an application issue. when convenient. Thanks for your help.",technical,low
+"Hi team, The item is missing an important component. when convenient. Thanks for your help.",product,low
+"Hello support, I was charged twice for the same order. please respond soon. Thank you.",billing,medium
+"I need assistance, I need technical support for an application issue. this is affecting my work. Thank you.",technical,medium
+"Please help me, The sign in page rejects my credentials. there is no immediate rush. Please assist.",account,low
+"Hello support, The system is not working after the latest update. there is no immediate rush. Thank you.",technical,low
+"Please help me, I need help using the product correctly. I would appreciate a normal response. I would appreciate your support.",product,low
+"Please help me, The product does not work as described. there is no immediate rush. Please assist.",product,low
+"Customer support, The system is not working after the latest update. please respond when possible.",technical,low
+"Hello support, The system is not working after the latest update. this is urgent. I would appreciate your support.",technical,high
+"Hello support, The invoice total is different from what I expected. I have an important payment due today. Thanks for your help.",billing,high
+"Please help me, My payment was declined but the amount was deducted. please treat this as high priority. Thanks for your help.",billing,high
+"I need assistance, The product does not work as described. this is urgent. Please assist.",product,high
+"I need assistance, I need help using the product correctly. when convenient.",product,low
+"Please help me, My account is locked and I cannot access it. when convenient. Thanks for your help.",account,low
+"Hi team, There is an unexpected charge on my bill. I would appreciate a normal response. I would appreciate your support.",billing,low
+"Please help me, The application crashes when I open it. this is urgent.",technical,high
+"Please help me, I forgot my password and need an account reset. when convenient.",account,low
+"I need assistance, I received the wrong product in my order. please respond when possible. I would appreciate your support.",product,low
+"Hello support, I need technical support for an application issue. I need help today. Thanks for your help.",technical,medium
+"Customer support, The system is not working after the latest update. I would like this resolved as soon as possible. Please assist.",technical,medium
+"Customer support, The product does not work as described. there is no immediate rush.",product,low
+"Customer support, The app is very slow and stops responding. I would appreciate a normal response.",technical,low
+"I need assistance, The app is very slow and stops responding. I would appreciate a normal response. Thanks for your help.",technical,low
+"Please help me, My account is locked and I cannot access it. please respond when possible.",account,low
+"Customer support, There is an unexpected charge on my bill. I would like this resolved as soon as possible.",billing,medium
+"Hi team, The item is missing an important component. I need help today. I would appreciate your support.",product,medium
+"I need assistance, I cannot connect to the service because of an error. I need help immediately. Please assist.",technical,high
+"Please help me, Please help me with a product replacement. when convenient. Thanks for your help.",product,low
+"Hello support, I am unable to access my customer account. this can be handled later. Please assist. Reference ticket available on request.",account,low
+"I need assistance, The invoice total is different from what I expected. this is urgent. Thanks for your help.",billing,high
+"Customer support, I need help using the product correctly. when convenient. Thanks for your help.",product,low
+"Hello support, I need help using the product correctly. I need help today. Thanks for your help.",product,medium
+"Customer support, My account is locked and I cannot access it. there is no immediate rush. Please assist. Reference ticket available on request.",account,low
+"Please help me, I need information about the product features. I would appreciate a normal response. Thanks for your help.",product,low
+"Please help me, I need help using the product correctly. please check this issue today. Thanks for your help.",product,medium
+"Customer support, I need information about the product features. please check this issue today. Thanks for your help.",product,medium
+"Please help me, I need help changing my account details. I need help today. Thanks for your help.",account,medium
+"Hi team, Please help me with a product replacement. this is affecting my work. I would appreciate your support.",product,medium
+"Customer support, I need information about the product features. I need help today.",product,medium
+"Customer support, My subscription payment has a billing issue. I would like this resolved as soon as possible.",billing,medium
+"Hi team, The item is missing an important component. I cannot continue until this is fixed.",product,high
+"Hi team, Please help me with a product replacement. this can be handled later.",product,low
+"Hello support, Please check a billing error on my account. I would appreciate a normal response.",billing,low
+"Hello support, The item is missing an important component. when convenient. Thank you.",product,low
+"Customer support, The app is very slow and stops responding. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Please help me, The item is missing an important component. please respond when possible. Thank you.",product,low
+"Hi team, I cannot log in to my account and need help. I cannot continue until this is fixed. I would appreciate your support.",account,high
+"Hello support, My account is locked and I cannot access it. I have an important payment due today. Thanks for your help.",account,high
+"Hello support, The system is not working after the latest update. when convenient. Thank you.",technical,low
+"Hi team, There is an unexpected charge on my bill. please respond when possible.",billing,low
+"Hello support, I need a refund for an incorrect charge. this must be resolved right away.",billing,high
+"Hello support, I need help changing my account details. this can be handled later. Thank you. Reference ticket available on request.",account,low
+"Please help me, I need information about the product features. I cannot continue until this is fixed. Thanks for your help.",product,high
+"Hi team, Please check a billing error on my account. please check this issue today. Thanks for your help. Reference ticket available on request.",billing,medium
+"I need assistance, I need help changing my account details. this is urgent. I would appreciate your support.",account,high
+"Hi team, I received the wrong product in my order. when convenient. I would appreciate your support.",product,low
+"Customer support, I received the wrong product in my order. this is affecting my work. Thank you.",product,medium
+"Customer support, I want to report a problem with the product. I cannot continue until this is fixed. Thank you.",product,high
+"I need assistance, The system is not working after the latest update. I have an important payment due today.",technical,high
+"I need assistance, I need help understanding my invoice. please check this issue today. Thanks for your help.",billing,medium
+"Please help me, Please check a billing error on my account. this is urgent. Please assist.",billing,high
+"Please help me, I was charged twice for the same order. this can be handled later. Thank you.",billing,low
+"Hello support, I need help using the product correctly. this can be handled later.",product,low
+"Customer support, I need help changing my account details. I would like this resolved as soon as possible. I would appreciate your support.",account,medium
+"Customer support, The invoice total is different from what I expected. please respond soon. Thanks for your help.",billing,medium
+"Hi team, My subscription payment has a billing issue. please respond when possible.",billing,low
+"Please help me, My subscription payment has a billing issue. I would like this resolved as soon as possible. I would appreciate your support.",billing,medium
+"I need assistance, Please help me with a product replacement. this must be resolved right away.",product,high
+"Hi team, The application crashes when I open it. there is no immediate rush. Please assist.",technical,low
+"I need assistance, I need technical support for an application issue. I cannot continue until this is fixed. Please assist.",technical,high
+"I need assistance, I need a refund for an incorrect charge. I would appreciate a normal response. Please assist.",billing,low
+"Please help me, I was charged twice for the same order. I have an important payment due today. Thanks for your help.",billing,high
+"I need assistance, The invoice total is different from what I expected. I cannot continue until this is fixed. I would appreciate your support.",billing,high
+"Customer support, Please check a billing error on my account. I would like this resolved as soon as possible. Thank you. Reference ticket available on request.",billing,medium
+"Please help me, The sign in page rejects my credentials. I need help immediately. Thanks for your help.",account,high
+"Hi team, The website is showing a technical error. this can be handled later. Thank you.",technical,low
+"I need assistance, Please help me recover access to my account. I would like this resolved as soon as possible.",account,medium
+"Please help me, The product does not work as described. I need help today. I would appreciate your support.",product,medium
+"Hi team, I cannot log in to my account and need help. please respond soon. I would appreciate your support.",account,medium
+"Hello support, I received the wrong product in my order. when convenient. Thanks for your help.",product,low
+"I need assistance, I am getting a server error when trying to continue. this is urgent. Please assist.",technical,high
+"Hello support, The page fails to load correctly. this is urgent. Reference ticket available on request.",technical,high
+"Hello support, My account is locked and I cannot access it. please respond when possible. Thanks for your help.",account,low
+"Customer support, My subscription payment has a billing issue. I need help today.",billing,medium
+"I need assistance, I need help changing my account details. please treat this as high priority.",account,high
+"Please help me, The page fails to load correctly. I cannot continue until this is fixed.",technical,high
+"Please help me, Please check a billing error on my account. I need help immediately.",billing,high
+"Please help me, I need a refund for an incorrect charge. I cannot continue until this is fixed.",billing,high
+"I need assistance, Please help me recover access to my account. I have an important payment due today.",account,high
+"Customer support, I received the wrong product in my order. I need help today.",product,medium
+"Please help me, I am unable to access my customer account. this can be handled later. I would appreciate your support.",account,low
+"Hello support, I received the wrong product in my order. please treat this as high priority. Thank you.",product,high
+"I need assistance, I am unable to access my customer account. this can be handled later. Please assist.",account,low
+"Hello support, Please help me with a product replacement. please respond soon. I would appreciate your support.",product,medium
+"Hello support, I am unable to access my customer account. please respond when possible. Thank you.",account,low
+"Customer support, The invoice total is different from what I expected. I would appreciate a normal response. I would appreciate your support. Reference ticket available on request.",billing,low
+"Hi team, The application crashes when I open it. this can be handled later. I would appreciate your support.",technical,low
+"Hi team, I need help understanding my invoice. I would appreciate a normal response.",billing,low
+"Customer support, The application crashes when I open it. I have an important payment due today. Thank you.",technical,high
+"Please help me, I cannot connect to the service because of an error. please treat this as high priority. I would appreciate your support.",technical,high
+"Please help me, I cannot connect to the service because of an error. there is no immediate rush. Please assist.",technical,low
+"Customer support, The product does not work as described. this is urgent. Please assist.",product,high
+"Hi team, The invoice total is different from what I expected. please respond soon. Please assist.",billing,medium
+"Customer support, I need help using the product correctly. there is no immediate rush.",product,low
+"Please help me, I cannot connect to the service because of an error. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Hi team, Please help me recover access to my account. I need help today. Thanks for your help.",account,medium
+"Hi team, I need help changing my account details. there is no immediate rush. Thanks for your help. Reference ticket available on request.",account,low
+"Please help me, I need help using the product correctly. I cannot continue until this is fixed. Thanks for your help.",product,high
+"Customer support, My payment was declined but the amount was deducted. please treat this as high priority. Thank you.",billing,high
+"Please help me, The page fails to load correctly. this must be resolved right away. I would appreciate your support. Reference ticket available on request.",technical,high
+"Hello support, I am unable to access my customer account. when convenient. Thank you.",account,low
+"Customer support, I cannot log in to my account and need help. I cannot continue until this is fixed. I would appreciate your support.",account,high
+"Hi team, I am unable to access my customer account. this is urgent. Please assist.",account,high
+"I need assistance, I cannot connect to the service because of an error. please treat this as high priority. Reference ticket available on request.",technical,high
+"I need assistance, The system is not working after the latest update. please respond when possible.",technical,low
+"Hello support, I need help understanding my invoice. please treat this as high priority. Thank you.",billing,high
+"Customer support, There is an unexpected charge on my bill. this is affecting my work.",billing,medium
+"Customer support, I was charged twice for the same order. I need help today. Please assist.",billing,medium
+"Customer support, The sign in page rejects my credentials. I cannot continue until this is fixed. Thanks for your help.",account,high
+"Please help me, The website is showing a technical error. please respond soon. Thank you.",technical,medium
+"Hello support, My account is locked and I cannot access it. there is no immediate rush. Please assist.",account,low
+"I need assistance, I cannot connect to the service because of an error. this is urgent.",technical,high
+"I need assistance, Please help me with a product replacement. this is urgent. Thanks for your help.",product,high
+"Please help me, The system is not working after the latest update. I would like this resolved as soon as possible. Please assist.",technical,medium
+"I need assistance, I need technical support for an application issue. this can be handled later. I would appreciate your support.",technical,low
+"Customer support, The app is very slow and stops responding. when convenient. I would appreciate your support.",technical,low
+"Hi team, I am getting a server error when trying to continue. I need help immediately. I would appreciate your support.",technical,high
+"Hi team, I need information about the product features. this must be resolved right away. Thank you.",product,high
+"Hello support, I need help understanding my invoice. I would like this resolved as soon as possible. Thank you.",billing,medium
+"I need assistance, I am unable to access my customer account. please respond when possible. Thanks for your help.",account,low
+"Hello support, The application crashes when I open it. this must be resolved right away.",technical,high
+"Customer support, There is an unexpected charge on my bill. there is no immediate rush. Thank you.",billing,low
+"I need assistance, Please help me with a product replacement. I have an important payment due today. Please assist.",product,high
+"Please help me, I need help using the product correctly. I would appreciate a normal response. I would appreciate your support.",product,low
+"Hello support, The page fails to load correctly. please check this issue today. Thanks for your help.",technical,medium
+"Hello support, I cannot log in to my account and need help. please respond soon.",account,medium
+"Hello support, I am unable to access my customer account. please treat this as high priority. Thanks for your help.",account,high
+"Hi team, The app is very slow and stops responding. please treat this as high priority. Thanks for your help.",technical,high
+"Hello support, My profile information is incorrect and I need it updated. please respond when possible.",account,low
+"I need assistance, I am unable to access my customer account. I need help immediately. Please assist.",account,high
+"Customer support, The website is showing a technical error. this can be handled later. I would appreciate your support.",technical,low
+"Customer support, Please check a billing error on my account. when convenient.",billing,low
+"Hello support, I need help using the product correctly. I would appreciate a normal response. Thank you.",product,low
+"Hello support, The item is missing an important component. please treat this as high priority. I would appreciate your support.",product,high
+"I need assistance, I want to report a problem with the product. I need help immediately.",product,high
+"I need assistance, I cannot connect to the service because of an error. I would like this resolved as soon as possible. Thanks for your help.",technical,medium
+"I need assistance, I was charged twice for the same order. this must be resolved right away. Please assist.",billing,high
+"Please help me, The sign in page rejects my credentials. there is no immediate rush. I would appreciate your support.",account,low
+"Customer support, The invoice total is different from what I expected. I cannot continue until this is fixed. Thank you.",billing,high
+"Customer support, I cannot connect to the service because of an error. there is no immediate rush. Thank you.",technical,low
+"Hello support, I forgot my password and need an account reset. I would like this resolved as soon as possible. I would appreciate your support.",account,medium
+"Please help me, I need help changing my account details. there is no immediate rush. I would appreciate your support.",account,low
+"Hi team, I am getting a server error when trying to continue. when convenient. Thank you.",technical,low
+"I need assistance, I cannot connect to the service because of an error. this is urgent. Please assist.",technical,high
+"Please help me, I need information about the product features. please respond when possible. Thank you.",product,low
+"Hello support, The system is not working after the latest update. when convenient. Thank you.",technical,low
+"Customer support, My payment was declined but the amount was deducted. this is affecting my work. Please assist.",billing,medium
+"Hi team, I need a refund for an incorrect charge. this must be resolved right away. Thank you.",billing,high
+"Customer support, The system is not working after the latest update. this is affecting my work.",technical,medium
+"Customer support, I need a refund for an incorrect charge. this is urgent. Please assist.",billing,high
+"I need assistance, I need a refund for an incorrect charge. I would like this resolved as soon as possible. I would appreciate your support.",billing,medium
+"Customer support, I am getting a server error when trying to continue. this is affecting my work.",technical,medium
+"Hello support, I cannot log in to my account and need help. this must be resolved right away. Thank you.",account,high
+"Hello support, My profile information is incorrect and I need it updated. this can be handled later. Thanks for your help.",account,low
+"Hello support, The app is very slow and stops responding. please check this issue today. Please assist.",technical,medium
+"I need assistance, I received the wrong product in my order. this is urgent. Thank you.",product,high
+"Hi team, The app is very slow and stops responding. I cannot continue until this is fixed. Please assist.",technical,high
+"Hi team, Please help me with a product replacement. this can be handled later.",product,low
+"I need assistance, I need a refund for an incorrect charge. I need help immediately.",billing,high
+"Please help me, I need help changing my account details. I cannot continue until this is fixed.",account,high
+"I need assistance, Please help me with a product replacement. please respond when possible. I would appreciate your support.",product,low
+"I need assistance, The system is not working after the latest update. there is no immediate rush. Thank you.",technical,low
+"I need assistance, I am getting a server error when trying to continue. this must be resolved right away. I would appreciate your support.",technical,high
+"Hi team, I cannot connect to the service because of an error. this must be resolved right away. Thank you.",technical,high
+"Hello support, The page fails to load correctly. when convenient. Thanks for your help.",technical,low
+"Hello support, The page fails to load correctly. this must be resolved right away.",technical,high
+"Please help me, My account is locked and I cannot access it. please check this issue today. Please assist.",account,medium
+"I need assistance, The product I received is damaged. I have an important payment due today. I would appreciate your support.",product,high
+"I need assistance, I need information about the product features. when convenient. Thanks for your help.",product,low
+"Customer support, I was charged twice for the same order. when convenient. I would appreciate your support.",billing,low
+"Hello support, I am getting a server error when trying to continue. I cannot continue until this is fixed. Please assist.",technical,high
+"Hello support, My subscription payment has a billing issue. please respond soon. I would appreciate your support.",billing,medium
+"Customer support, My profile information is incorrect and I need it updated. this must be resolved right away. Thanks for your help.",account,high
+"I need assistance, There is an unexpected charge on my bill. please respond when possible. I would appreciate your support.",billing,low
+"I need assistance, The product I received is damaged. this is urgent. I would appreciate your support.",product,high
+"Customer support, The application crashes when I open it. this is urgent. Please assist.",technical,high
+"Customer support, My payment was declined but the amount was deducted. please respond when possible. Please assist.",billing,low
+"Please help me, I cannot connect to the service because of an error. this is urgent.",technical,high
+"Hi team, I need technical support for an application issue. when convenient.",technical,low
+"Customer support, The item is missing an important component. please respond when possible. Please assist.",product,low
+"I need assistance, There is an unexpected charge on my bill. please check this issue today.",billing,medium
+"Please help me, The app is very slow and stops responding. I would like this resolved as soon as possible. Thanks for your help.",technical,medium
+"Please help me, There is an unexpected charge on my bill. this can be handled later. Please assist.",billing,low
+"Customer support, Please check a billing error on my account. I would like this resolved as soon as possible. I would appreciate your support.",billing,medium
+"Please help me, The invoice total is different from what I expected. when convenient. Thanks for your help.",billing,low
+"Hello support, I forgot my password and need an account reset. please respond when possible. Thank you.",account,low
+"Please help me, My profile information is incorrect and I need it updated. this must be resolved right away. I would appreciate your support.",account,high
+"Customer support, I need information about the product features. there is no immediate rush. Thank you.",product,low
+"Please help me, I received the wrong product in my order. this is affecting my work. Please assist.",product,medium
+"I need assistance, The system is not working after the latest update. please respond when possible. Please assist.",technical,low
+"Hi team, My subscription payment has a billing issue. this can be handled later.",billing,low
+"Please help me, I cannot connect to the service because of an error. I need help today. Thank you.",technical,medium
+"Customer support, The page fails to load correctly. please treat this as high priority.",technical,high
+"I need assistance, The application crashes when I open it. I would like this resolved as soon as possible.",technical,medium
+"Hello support, I need information about the product features. please respond soon. Please assist.",product,medium
+"I need assistance, My profile information is incorrect and I need it updated. I have an important payment due today. Please assist.",account,high
+"I need assistance, The item is missing an important component. this is urgent. Thank you.",product,high
+"Please help me, I need help understanding my invoice. I have an important payment due today. Please assist.",billing,high
+"Customer support, The page fails to load correctly. this is urgent. Please assist.",technical,high
+"I need assistance, I need help using the product correctly. this can be handled later. Thank you.",product,low
+"Hello support, I need a refund for an incorrect charge. this is affecting my work. Thanks for your help.",billing,medium
+"Hello support, I cannot connect to the service because of an error. I need help today. Please assist.",technical,medium
+"Please help me, My profile information is incorrect and I need it updated. I would appreciate a normal response. I would appreciate your support.",account,low
+"Hello support, I need technical support for an application issue. please respond when possible. Thank you.",technical,low
+"Please help me, There is an unexpected charge on my bill. this must be resolved right away. I would appreciate your support.",billing,high
+"Customer support, The product does not work as described. this is affecting my work. I would appreciate your support.",product,medium
+"Hi team, I cannot log in to my account and need help. please treat this as high priority.",account,high
+"I need assistance, I want to report a problem with the product. please treat this as high priority. Thank you.",product,high
+"Hello support, Please help me with a product replacement. please treat this as high priority. Thank you.",product,high
+"Please help me, I want to report a problem with the product. please treat this as high priority. Thanks for your help.",product,high
+"I need assistance, I need help changing my account details. this is affecting my work. Thank you.",account,medium
+"Hi team, The item is missing an important component. I need help immediately. Please assist.",product,high
+"Customer support, The invoice total is different from what I expected. I have an important payment due today.",billing,high
+"Customer support, I want to report a problem with the product. I need help today. I would appreciate your support.",product,medium
+"Customer support, I need information about the product features. this is affecting my work.",product,medium
+"I need assistance, I am unable to access my customer account. I need help today. Thanks for your help.",account,medium
+"Please help me, My account is locked and I cannot access it. this can be handled later. Thanks for your help.",account,low
+"I need assistance, I cannot log in to my account and need help. please respond when possible.",account,low
+"Please help me, I need help understanding my invoice. please respond soon. I would appreciate your support.",billing,medium
+"Customer support, The app is very slow and stops responding. this can be handled later.",technical,low
+"Hi team, The product does not work as described. this is affecting my work. Thanks for your help.",product,medium
+"Hello support, The invoice total is different from what I expected. please respond soon. Thanks for your help. Reference ticket available on request.",billing,medium
+"Hello support, I want to report a problem with the product. I need help today. I would appreciate your support.",product,medium
+"Please help me, I was charged twice for the same order. this can be handled later.",billing,low
+"Hello support, Please help me recover access to my account. there is no immediate rush. Thank you.",account,low
+"I need assistance, I received the wrong product in my order. please check this issue today. Thanks for your help.",product,medium
+"Hello support, I want to report a problem with the product. this is affecting my work. I would appreciate your support.",product,medium
+"Customer support, My account is locked and I cannot access it. I need help immediately. Thanks for your help.",account,high
+"Hi team, I received the wrong product in my order. this must be resolved right away.",product,high
+"Hi team, Please check a billing error on my account. please respond when possible. Please assist.",billing,low
+"I need assistance, I need technical support for an application issue. I need help immediately. Thanks for your help.",technical,high
+"Please help me, The product I received is damaged. please respond soon.",product,medium
+"Hi team, The product does not work as described. this is urgent. I would appreciate your support.",product,high
+"Hello support, I need help understanding my invoice. please respond when possible. Thanks for your help.",billing,low
+"Customer support, I need help changing my account details. I need help immediately. I would appreciate your support.",account,high
+"Hello support, I received the wrong product in my order. I need help immediately. I would appreciate your support.",product,high
+"Please help me, Please help me with a product replacement. this must be resolved right away. I would appreciate your support.",product,high
+"Customer support, I am unable to access my customer account. please treat this as high priority.",account,high
+"I need assistance, I need help changing my account details. please respond when possible. Thanks for your help.",account,low
+"Hi team, I need help using the product correctly. there is no immediate rush. Thank you.",product,low
+"Hi team, I am getting a server error when trying to continue. I would appreciate a normal response. Please assist.",technical,low
+"Hi team, The app is very slow and stops responding. when convenient. I would appreciate your support.",technical,low
+"I need assistance, The item is missing an important component. I need help today. Please assist.",product,medium
+"Hello support, I am unable to access my customer account. I would appreciate a normal response. Thank you.",account,low
+"Customer support, I need technical support for an application issue. please treat this as high priority. Thank you.",technical,high
+"Hi team, The page fails to load correctly. please respond soon. Thanks for your help. Reference ticket available on request.",technical,medium
+"Customer support, I was charged twice for the same order. please check this issue today. Please assist. Reference ticket available on request.",billing,medium
+"Please help me, There is an unexpected charge on my bill. this is affecting my work. Thanks for your help.",billing,medium
+"Hello support, I need a refund for an incorrect charge. I need help today. Thank you.",billing,medium
+"I need assistance, I want to report a problem with the product. this is affecting my work. Thank you.",product,medium
+"Hi team, My account is locked and I cannot access it. this can be handled later.",account,low
+"I need assistance, The website is showing a technical error. there is no immediate rush. I would appreciate your support.",technical,low
+"Customer support, Please check a billing error on my account. this can be handled later.",billing,low
+"Hello support, My profile information is incorrect and I need it updated. I would appreciate a normal response. I would appreciate your support.",account,low
+"Customer support, The application crashes when I open it. I need help immediately.",technical,high
+"I need assistance, I received the wrong product in my order. please check this issue today.",product,medium
+"Customer support, My account is locked and I cannot access it. please respond soon. Thank you.",account,medium
+"Hello support, The product does not work as described. I need help today. Please assist.",product,medium
+"Hello support, The product does not work as described. please check this issue today. Please assist.",product,medium
+"I need assistance, I received the wrong product in my order. this is affecting my work. Please assist.",product,medium
+"Hello support, Please help me with a product replacement. there is no immediate rush.",product,low
+"Hello support, Please check a billing error on my account. I need help today. I would appreciate your support.",billing,medium
+"Hello support, Please check a billing error on my account. I have an important payment due today. Thank you.",billing,high
+"Hello support, The page fails to load correctly. this is affecting my work. Thanks for your help. Reference ticket available on request.",technical,medium
+"Hello support, There is an unexpected charge on my bill. this must be resolved right away.",billing,high
+"Please help me, The system is not working after the latest update. please treat this as high priority. I would appreciate your support.",technical,high
+"I need assistance, Please help me with a product replacement. this is urgent.",product,high
+"Customer support, I forgot my password and need an account reset. I need help immediately. I would appreciate your support.",account,high
+"Please help me, Please help me recover access to my account. I need help today. I would appreciate your support.",account,medium
+"Hello support, I was charged twice for the same order. I need help immediately. Please assist.",billing,high
+"Hi team, I need information about the product features. I would like this resolved as soon as possible. Thanks for your help.",product,medium
+"Hi team, I need technical support for an application issue. this is affecting my work.",technical,medium
+"I need assistance, I need help understanding my invoice. I would appreciate a normal response. Thank you.",billing,low
+"Please help me, I forgot my password and need an account reset. this is urgent. Thanks for your help.",account,high
+"I need assistance, I cannot connect to the service because of an error. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Customer support, The application crashes when I open it. I have an important payment due today. Thank you.",technical,high
+"I need assistance, I cannot log in to my account and need help. please treat this as high priority.",account,high
+"I need assistance, The page fails to load correctly. I would like this resolved as soon as possible. I would appreciate your support.",technical,medium
+"I need assistance, I am unable to access my customer account. please check this issue today. Thanks for your help.",account,medium
+"I need assistance, I am getting a server error when trying to continue. this is urgent.",technical,high
+"Please help me, I need information about the product features. there is no immediate rush.",product,low
+"Hello support, Please help me with a product replacement. I would like this resolved as soon as possible. Thank you.",product,medium
+"I need assistance, The invoice total is different from what I expected. I need help today. Please assist.",billing,medium
+"Hi team, The website is showing a technical error. this must be resolved right away. I would appreciate your support.",technical,high
+"Customer support, My payment was declined but the amount was deducted. I need help today.",billing,medium
+"Customer support, I forgot my password and need an account reset. I would like this resolved as soon as possible.",account,medium
+"Customer support, There is an unexpected charge on my bill. there is no immediate rush. Thank you.",billing,low
+"Customer support, The app is very slow and stops responding. I need help immediately. I would appreciate your support.",technical,high
+"Hi team, The sign in page rejects my credentials. please check this issue today. I would appreciate your support.",account,medium
+"Please help me, My profile information is incorrect and I need it updated. I cannot continue until this is fixed. Please assist.",account,high
+"Please help me, The system is not working after the latest update. please respond soon. Reference ticket available on request.",technical,medium
+"Please help me, I need help using the product correctly. this is affecting my work. Thank you.",product,medium
+"Customer support, I need help using the product correctly. please check this issue today. I would appreciate your support.",product,medium
+"Please help me, The product I received is damaged. this must be resolved right away. I would appreciate your support. Reference ticket available on request.",product,high
+"Hello support, The product does not work as described. I need help immediately. I would appreciate your support. Reference ticket available on request.",product,high
+"Hi team, My subscription payment has a billing issue. please treat this as high priority. Please assist.",billing,high
+"Hello support, The application crashes when I open it. this can be handled later.",technical,low
+"I need assistance, My subscription payment has a billing issue. please respond soon. Thank you.",billing,medium
+"Hi team, Please help me recover access to my account. please respond when possible.",account,low
+"I need assistance, Please help me with a product replacement. I have an important payment due today. Please assist.",product,high
+"Hello support, I need a refund for an incorrect charge. I have an important payment due today. Thanks for your help. Reference ticket available on request.",billing,high
+"Customer support, The item is missing an important component. please respond when possible. Thanks for your help.",product,low
+"Hi team, My payment was declined but the amount was deducted. please treat this as high priority.",billing,high
+"Customer support, The app is very slow and stops responding. when convenient. Thanks for your help.",technical,low
+"I need assistance, There is an unexpected charge on my bill. this must be resolved right away. Please assist.",billing,high
+"Please help me, The invoice total is different from what I expected. I cannot continue until this is fixed. Please assist.",billing,high
+"Please help me, I need technical support for an application issue. I would appreciate a normal response. Thanks for your help.",technical,low
+"Customer support, The product does not work as described. please respond soon. Please assist.",product,medium
+"Hello support, I cannot connect to the service because of an error. when convenient.",technical,low
+"I need assistance, I was charged twice for the same order. I need help today. Please assist. Reference ticket available on request.",billing,medium
+"Customer support, The website is showing a technical error. I need help today. I would appreciate your support.",technical,medium
+"Hi team, Please check a billing error on my account. there is no immediate rush. Please assist.",billing,low
+"I need assistance, The sign in page rejects my credentials. there is no immediate rush. Thanks for your help.",account,low
+"Customer support, The sign in page rejects my credentials. I have an important payment due today. Thank you. Reference ticket available on request.",account,high
+"Please help me, The invoice total is different from what I expected. I would like this resolved as soon as possible. Thank you.",billing,medium
+"Hi team, I need help using the product correctly. this is affecting my work. Please assist.",product,medium
+"Hi team, I cannot log in to my account and need help. please respond soon. Thanks for your help.",account,medium
+"Hello support, The product I received is damaged. please respond when possible. Please assist.",product,low
+"I need assistance, I am getting a server error when trying to continue. please respond when possible. Please assist.",technical,low
+"I need assistance, I need information about the product features. this is urgent. Thanks for your help.",product,high
+"Hi team, I cannot log in to my account and need help. I would like this resolved as soon as possible. Please assist.",account,medium
+"Please help me, The item is missing an important component. this is affecting my work. I would appreciate your support.",product,medium
+"Hi team, I am unable to access my customer account. I need help today. I would appreciate your support.",account,medium
+"Hello support, I need help understanding my invoice. this is affecting my work.",billing,medium
+"Customer support, The item is missing an important component. this must be resolved right away. Thanks for your help.",product,high
+"Hi team, I am unable to access my customer account. I would like this resolved as soon as possible. Thank you.",account,medium
+"Hi team, My payment was declined but the amount was deducted. I need help today. Please assist.",billing,medium
+"Please help me, I need help understanding my invoice. I would like this resolved as soon as possible. I would appreciate your support.",billing,medium
+"Hi team, The system is not working after the latest update. when convenient.",technical,low
+"Please help me, My account is locked and I cannot access it. I would appreciate a normal response. Thank you.",account,low
+"Hello support, Please help me with a product replacement. when convenient. Please assist.",product,low
+"Please help me, My account is locked and I cannot access it. this is affecting my work.",account,medium
+"Hi team, The product I received is damaged. please treat this as high priority. I would appreciate your support.",product,high
+"Hi team, I was charged twice for the same order. there is no immediate rush. Thank you.",billing,low
+"Please help me, I cannot connect to the service because of an error. this is urgent. I would appreciate your support.",technical,high
+"Hello support, The app is very slow and stops responding. please respond soon. Thanks for your help.",technical,medium
+"I need assistance, I need help using the product correctly. this is affecting my work.",product,medium
+"Please help me, There is an unexpected charge on my bill. I cannot continue until this is fixed. I would appreciate your support.",billing,high
+"Hi team, I need technical support for an application issue. I need help today. I would appreciate your support.",technical,medium
+"I need assistance, There is an unexpected charge on my bill. there is no immediate rush. Thanks for your help.",billing,low
+"Customer support, I need a refund for an incorrect charge. please respond soon.",billing,medium
+"I need assistance, My account is locked and I cannot access it. please respond soon.",account,medium
+"I need assistance, My profile information is incorrect and I need it updated. when convenient. Thanks for your help.",account,low
+"Please help me, I want to report a problem with the product. I need help immediately. Thanks for your help.",product,high
+"Please help me, I need help using the product correctly. I have an important payment due today. Please assist.",product,high
+"I need assistance, The application crashes when I open it. this is affecting my work.",technical,medium
+"Please help me, I was charged twice for the same order. I cannot continue until this is fixed. Thank you.",billing,high
+"Please help me, My payment was declined but the amount was deducted. I cannot continue until this is fixed. Please assist.",billing,high
+"I need assistance, I forgot my password and need an account reset. I would like this resolved as soon as possible. Thanks for your help.",account,medium
+"Hello support, My payment was declined but the amount was deducted. there is no immediate rush. Please assist.",billing,low
+"Customer support, My subscription payment has a billing issue. there is no immediate rush. Thanks for your help.",billing,low
+"Customer support, The product does not work as described. I would appreciate a normal response. Thanks for your help.",product,low
+"Please help me, I need a refund for an incorrect charge. when convenient. I would appreciate your support.",billing,low
+"Hello support, I want to report a problem with the product. I need help today. Thank you.",product,medium
+"Please help me, I need help changing my account details. please check this issue today. Thank you. Reference ticket available on request.",account,medium
+"Hello support, The sign in page rejects my credentials. I need help today. Thank you.",account,medium
+"I need assistance, The app is very slow and stops responding. please respond when possible. Please assist.",technical,low
+"Customer support, I need help using the product correctly. there is no immediate rush. Thank you.",product,low
+"Please help me, The sign in page rejects my credentials. please check this issue today. Thank you.",account,medium
+"Hi team, The sign in page rejects my credentials. when convenient. Thank you.",account,low
+"Hi team, The website is showing a technical error. there is no immediate rush. Thanks for your help.",technical,low
+"I need assistance, The sign in page rejects my credentials. please check this issue today.",account,medium
+"I need assistance, I cannot connect to the service because of an error. I have an important payment due today. Thank you.",technical,high
+"Hi team, I need a refund for an incorrect charge. please respond soon. Thank you.",billing,medium
+"I need assistance, I need help changing my account details. I need help immediately. Please assist. Reference ticket available on request.",account,high
+"Hi team, My account is locked and I cannot access it. this can be handled later.",account,low
+"Hi team, My payment was declined but the amount was deducted. this is affecting my work. I would appreciate your support.",billing,medium
+"Hello support, I need help understanding my invoice. please treat this as high priority.",billing,high
+"Please help me, I need help using the product correctly. I would appreciate a normal response. Please assist.",product,low
+"Hi team, I need help using the product correctly. this can be handled later. I would appreciate your support.",product,low
+"Hi team, I need a refund for an incorrect charge. I need help immediately. Thanks for your help.",billing,high
+"Customer support, I want to report a problem with the product. this is urgent. Please assist. Reference ticket available on request.",product,high
+"Hello support, I am unable to access my customer account. please treat this as high priority. Thank you.",account,high
+"I need assistance, Please help me with a product replacement. I cannot continue until this is fixed.",product,high
+"Hi team, My account is locked and I cannot access it. this can be handled later. Thank you.",account,low
+"Hello support, I am getting a server error when trying to continue. when convenient. Thanks for your help.",technical,low
+"I need assistance, The sign in page rejects my credentials. please check this issue today. Please assist.",account,medium
+"Hi team, My payment was declined but the amount was deducted. this is affecting my work. Thanks for your help.",billing,medium
+"Hello support, I am getting a server error when trying to continue. please treat this as high priority. Thanks for your help.",technical,high
+"Hi team, The product does not work as described. I need help today.",product,medium
+"Hello support, My profile information is incorrect and I need it updated. this is affecting my work. I would appreciate your support.",account,medium
+"Hi team, I cannot log in to my account and need help. I would appreciate a normal response.",account,low
+"Hello support, The sign in page rejects my credentials. this must be resolved right away.",account,high
+"Please help me, I was charged twice for the same order. when convenient. Thank you. Reference ticket available on request.",billing,low
+"Customer support, The app is very slow and stops responding. I need help today. Thanks for your help.",technical,medium
+"Hi team, I was charged twice for the same order. when convenient. Please assist.",billing,low
+"Customer support, The page fails to load correctly. this is affecting my work. Please assist.",technical,medium
+"Hello support, The product does not work as described. please respond soon. I would appreciate your support.",product,medium
+"Please help me, I am unable to access my customer account. I have an important payment due today. Please assist.",account,high
+"Hi team, The product I received is damaged. I would appreciate a normal response. I would appreciate your support.",product,low
+"I need assistance, Please check a billing error on my account. I cannot continue until this is fixed. Thanks for your help.",billing,high
+"I need assistance, My account is locked and I cannot access it. I would like this resolved as soon as possible. Thanks for your help.",account,medium
+"Please help me, My account is locked and I cannot access it. please check this issue today. I would appreciate your support.",account,medium
+"Hi team, I want to report a problem with the product. I would appreciate a normal response. Please assist.",product,low
+"Hello support, My subscription payment has a billing issue. please treat this as high priority. Please assist.",billing,high
+"I need assistance, The product does not work as described. please respond soon.",product,medium
+"Hello support, I need technical support for an application issue. when convenient. Please assist.",technical,low
+"I need assistance, I cannot log in to my account and need help. please check this issue today. Please assist. Reference ticket available on request.",account,medium
+"I need assistance, My account is locked and I cannot access it. when convenient.",account,low
+"Hi team, The application crashes when I open it. there is no immediate rush. Please assist.",technical,low
+"Please help me, The invoice total is different from what I expected. I have an important payment due today. Thank you.",billing,high
+"Please help me, The invoice total is different from what I expected. please respond soon. I would appreciate your support.",billing,medium
+"Hello support, The app is very slow and stops responding. I need help immediately.",technical,high
+"Hello support, I cannot log in to my account and need help. please respond when possible. Thanks for your help.",account,low
+"Please help me, I need help understanding my invoice. this is urgent. Thanks for your help.",billing,high
+"Hello support, My account is locked and I cannot access it. I would appreciate a normal response. I would appreciate your support.",account,low
+"Customer support, I need help using the product correctly. I would appreciate a normal response.",product,low
+"I need assistance, The website is showing a technical error. please check this issue today. I would appreciate your support.",technical,medium
+"Hello support, My payment was declined but the amount was deducted. this is urgent. Please assist.",billing,high
+"Customer support, My profile information is incorrect and I need it updated. there is no immediate rush.",account,low
+"Hello support, The app is very slow and stops responding. please check this issue today. Please assist.",technical,medium
+"Please help me, I want to report a problem with the product. there is no immediate rush. I would appreciate your support.",product,low
+"I need assistance, I need information about the product features. please respond when possible.",product,low
+"Customer support, I cannot log in to my account and need help. I would like this resolved as soon as possible.",account,medium
+"Hello support, I want to report a problem with the product. this can be handled later. Please assist.",product,low
+"Customer support, My subscription payment has a billing issue. please check this issue today. Thank you.",billing,medium
+"Customer support, The system is not working after the latest update. I need help immediately. Please assist.",technical,high
+"Hello support, I am getting a server error when trying to continue. please respond when possible.",technical,low
+"Please help me, Please check a billing error on my account. please respond when possible.",billing,low
+"Hi team, The item is missing an important component. this can be handled later.",product,low
+"Hello support, Please check a billing error on my account. this can be handled later. Thank you.",billing,low
+"Customer support, I am getting a server error when trying to continue. this must be resolved right away. Thank you.",technical,high
+"Hello support, Please help me recover access to my account. please respond soon. I would appreciate your support.",account,medium
+"Hi team, I cannot connect to the service because of an error. please check this issue today. I would appreciate your support.",technical,medium
+"Hi team, I forgot my password and need an account reset. this can be handled later. Thank you.",account,low
+"Hello support, I forgot my password and need an account reset. please check this issue today.",account,medium
+"I need assistance, The product I received is damaged. I would like this resolved as soon as possible. Thanks for your help.",product,medium
+"I need assistance, I forgot my password and need an account reset. please treat this as high priority. I would appreciate your support.",account,high
+"I need assistance, Please help me with a product replacement. I have an important payment due today. Please assist.",product,high
+"Hi team, I was charged twice for the same order. I need help today. Thank you.",billing,medium
+"Customer support, I cannot log in to my account and need help. this is affecting my work. Thank you. Reference ticket available on request.",account,medium
+"Hello support, I need help using the product correctly. please respond soon.",product,medium
+"Customer support, I was charged twice for the same order. there is no immediate rush. Thanks for your help.",billing,low
+"Hello support, I need help understanding my invoice. please respond soon. Thanks for your help.",billing,medium
+"I need assistance, My account is locked and I cannot access it. this is urgent. Thank you.",account,high
+"Hello support, I need technical support for an application issue. there is no immediate rush. Thanks for your help.",technical,low
+"Hello support, Please help me with a product replacement. I need help today. Please assist.",product,medium
+"Hi team, I want to report a problem with the product. there is no immediate rush.",product,low
+"Customer support, Please check a billing error on my account. this can be handled later. I would appreciate your support.",billing,low
+"Customer support, The invoice total is different from what I expected. I would like this resolved as soon as possible. I would appreciate your support.",billing,medium
+"Hi team, The system is not working after the latest update. I would like this resolved as soon as possible.",technical,medium
+"Hello support, My profile information is incorrect and I need it updated. I would like this resolved as soon as possible. Thank you.",account,medium
+"I need assistance, I am getting a server error when trying to continue. I would like this resolved as soon as possible. I would appreciate your support.",technical,medium
+"I need assistance, Please help me with a product replacement. I need help immediately. I would appreciate your support.",product,high
+"Hello support, The app is very slow and stops responding. please respond soon. Thanks for your help.",technical,medium
+"Hi team, Please help me recover access to my account. please treat this as high priority. Thank you.",account,high
+"Please help me, The invoice total is different from what I expected. please treat this as high priority. I would appreciate your support.",billing,high
+"Hello support, The application crashes when I open it. there is no immediate rush.",technical,low
+"Hi team, I want to report a problem with the product. when convenient. Thanks for your help. Reference ticket available on request.",product,low
+"Hi team, Please help me recover access to my account. this must be resolved right away. I would appreciate your support.",account,high
+"I need assistance, The website is showing a technical error. I need help immediately. Thanks for your help.",technical,high
+"Hi team, I am getting a server error when trying to continue. when convenient. Please assist.",technical,low
+"Customer support, I need technical support for an application issue. please check this issue today. Thanks for your help. Reference ticket available on request.",technical,medium
+"Customer support, I need help understanding my invoice. I have an important payment due today. Reference ticket available on request.",billing,high
+"Customer support, I need a refund for an incorrect charge. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"Hi team, The invoice total is different from what I expected. this is affecting my work. I would appreciate your support.",billing,medium
+"Please help me, My payment was declined but the amount was deducted. please respond when possible. I would appreciate your support.",billing,low
+"I need assistance, I want to report a problem with the product. please treat this as high priority. Please assist. Reference ticket available on request.",product,high
+"Customer support, Please help me recover access to my account. I would appreciate a normal response.",account,low
+"Hello support, I cannot connect to the service because of an error. please check this issue today.",technical,medium
+"Customer support, I need technical support for an application issue. I would appreciate a normal response. Thanks for your help.",technical,low
+"Hi team, The product does not work as described. please respond when possible.",product,low
+"Hello support, My profile information is incorrect and I need it updated. I would appreciate a normal response.",account,low
+"Hi team, The page fails to load correctly. please treat this as high priority. Please assist.",technical,high
+"Please help me, The product I received is damaged. I have an important payment due today.",product,high
+"Hi team, The system is not working after the latest update. please treat this as high priority. Thank you.",technical,high
+"Please help me, Please check a billing error on my account. I would appreciate a normal response. Thank you.",billing,low
+"Customer support, The system is not working after the latest update. please respond soon.",technical,medium
+"I need assistance, The page fails to load correctly. this is urgent. Thanks for your help.",technical,high
+"Please help me, There is an unexpected charge on my bill. please check this issue today. I would appreciate your support.",billing,medium
+"Hi team, I want to report a problem with the product. there is no immediate rush. Thanks for your help.",product,low
+"Hi team, The system is not working after the latest update. there is no immediate rush. Thanks for your help.",technical,low
+"Hello support, The product does not work as described. please respond soon. Please assist.",product,medium
+"Please help me, My subscription payment has a billing issue. I need help today. Thanks for your help.",billing,medium
+"Hello support, I need help changing my account details. please treat this as high priority. I would appreciate your support.",account,high
+"Please help me, Please help me with a product replacement. please check this issue today. I would appreciate your support.",product,medium
+"Hello support, The page fails to load correctly. please respond soon. Please assist.",technical,medium
+"Hello support, I need help understanding my invoice. I cannot continue until this is fixed. Please assist.",billing,high
+"Hi team, There is an unexpected charge on my bill. I need help today. I would appreciate your support.",billing,medium
+"Please help me, The product does not work as described. I need help today. I would appreciate your support.",product,medium
+"Hello support, I need technical support for an application issue. please respond when possible. Thanks for your help.",technical,low
+"Please help me, The invoice total is different from what I expected. please respond soon. Please assist.",billing,medium
+"Hi team, Please help me recover access to my account. this is urgent. I would appreciate your support.",account,high
+"Hello support, I cannot log in to my account and need help. this is affecting my work.",account,medium
+"Hi team, I am unable to access my customer account. I have an important payment due today.",account,high
+"I need assistance, I need technical support for an application issue. I cannot continue until this is fixed. I would appreciate your support.",technical,high
+"Hello support, I need help using the product correctly. I cannot continue until this is fixed. Thank you.",product,high
+"Hi team, There is an unexpected charge on my bill. this can be handled later.",billing,low
+"Customer support, I need a refund for an incorrect charge. I have an important payment due today.",billing,high
+"I need assistance, I want to report a problem with the product. please check this issue today.",product,medium
+"Hi team, I need technical support for an application issue. please respond when possible. I would appreciate your support.",technical,low
+"Please help me, The app is very slow and stops responding. please respond soon. Please assist.",technical,medium
+"Hi team, I cannot connect to the service because of an error. I cannot continue until this is fixed. Please assist.",technical,high
+"Please help me, I received the wrong product in my order. when convenient. Thanks for your help.",product,low
+"Hi team, Please help me recover access to my account. I need help immediately.",account,high
+"Hi team, I need information about the product features. this must be resolved right away.",product,high
+"I need assistance, The website is showing a technical error. please respond soon. Please assist.",technical,medium
+"I need assistance, The sign in page rejects my credentials. please respond when possible. Thank you.",account,low
+"Customer support, Please check a billing error on my account. this can be handled later. Thanks for your help.",billing,low
+"Hello support, The item is missing an important component. I need help immediately. Thanks for your help.",product,high
+"Customer support, My payment was declined but the amount was deducted. there is no immediate rush.",billing,low
+"Please help me, I am getting a server error when trying to continue. when convenient. Thank you.",technical,low
+"I need assistance, The system is not working after the latest update. please treat this as high priority. Thanks for your help. Reference ticket available on request.",technical,high
+"I need assistance, The sign in page rejects my credentials. please respond when possible. Thanks for your help.",account,low
+"Please help me, I forgot my password and need an account reset. please treat this as high priority. I would appreciate your support.",account,high
+"Hello support, The website is showing a technical error. please treat this as high priority.",technical,high
+"Please help me, My subscription payment has a billing issue. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"Please help me, My payment was declined but the amount was deducted. this can be handled later. I would appreciate your support.",billing,low
+"Customer support, I need help using the product correctly. please respond soon. I would appreciate your support.",product,medium
+"Hi team, The application crashes when I open it. there is no immediate rush. I would appreciate your support. Reference ticket available on request.",technical,low
+"Hi team, The website is showing a technical error. I would appreciate a normal response.",technical,low
+"Hello support, The product does not work as described. I need help immediately. I would appreciate your support.",product,high
+"Hello support, I need information about the product features. this must be resolved right away. Please assist.",product,high
+"Hello support, I need help understanding my invoice. please treat this as high priority. I would appreciate your support.",billing,high
+"Customer support, I need a refund for an incorrect charge. this is urgent. Thanks for your help.",billing,high
+"I need assistance, The application crashes when I open it. I have an important payment due today. Please assist.",technical,high
+"Please help me, The sign in page rejects my credentials. I would appreciate a normal response. Please assist.",account,low
+"Customer support, I cannot connect to the service because of an error. please respond when possible. I would appreciate your support.",technical,low
+"Please help me, My subscription payment has a billing issue. I cannot continue until this is fixed. Thank you.",billing,high
+"Customer support, There is an unexpected charge on my bill. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"Hi team, The invoice total is different from what I expected. I would appreciate a normal response. I would appreciate your support.",billing,low
+"I need assistance, I need help understanding my invoice. this must be resolved right away. Thanks for your help.",billing,high
+"Hi team, The application crashes when I open it. please respond when possible. Please assist.",technical,low
+"Customer support, The product does not work as described. this must be resolved right away. Thanks for your help.",product,high
+"Hi team, I need technical support for an application issue. please respond when possible.",technical,low
+"Customer support, The product does not work as described. please respond soon. Please assist.",product,medium
+"Hello support, My subscription payment has a billing issue. this can be handled later. Thanks for your help.",billing,low
+"Hello support, I forgot my password and need an account reset. please respond soon. I would appreciate your support. Reference ticket available on request.",account,medium
+"Hello support, My account is locked and I cannot access it. please respond when possible. Thank you.",account,low
+"Hello support, My subscription payment has a billing issue. this is affecting my work. Thank you.",billing,medium
+"Customer support, I am getting a server error when trying to continue. I have an important payment due today. I would appreciate your support.",technical,high
+"Hi team, The website is showing a technical error. please check this issue today. Thank you.",technical,medium
+"I need assistance, I need help changing my account details. I have an important payment due today. Please assist.",account,high
+"Please help me, I am unable to access my customer account. please check this issue today. Please assist.",account,medium
+"Customer support, Please help me recover access to my account. I would appreciate a normal response.",account,low
+"Hi team, Please help me recover access to my account. please treat this as high priority. Thank you.",account,high
+"I need assistance, I need a refund for an incorrect charge. I need help immediately.",billing,high
+"Hi team, The website is showing a technical error. I would appreciate a normal response. I would appreciate your support.",technical,low
+"Please help me, Please help me with a product replacement. I would like this resolved as soon as possible. I would appreciate your support.",product,medium
+"Hi team, I forgot my password and need an account reset. there is no immediate rush. I would appreciate your support.",account,low
+"Hello support, The product does not work as described. this can be handled later. Please assist.",product,low
+"Hi team, There is an unexpected charge on my bill. I have an important payment due today. I would appreciate your support.",billing,high
+"Hi team, I need information about the product features. please respond when possible. Please assist.",product,low
+"Hi team, The app is very slow and stops responding. this can be handled later. Thank you.",technical,low
+"I need assistance, The item is missing an important component. I have an important payment due today.",product,high
+"Hi team, The application crashes when I open it. please check this issue today. Please assist. Reference ticket available on request.",technical,medium
+"Hello support, I cannot log in to my account and need help. I need help immediately. Please assist.",account,high
+"Customer support, The page fails to load correctly. I have an important payment due today. Thanks for your help.",technical,high
+"Hi team, The product does not work as described. please treat this as high priority. Thanks for your help.",product,high
+"Hi team, The product I received is damaged. please respond soon. Thank you.",product,medium
+"I need assistance, I need technical support for an application issue. there is no immediate rush.",technical,low
+"Hi team, I need help using the product correctly. please respond when possible. I would appreciate your support.",product,low
+"I need assistance, The application crashes when I open it. I need help immediately. Thanks for your help.",technical,high
+"Hi team, I am unable to access my customer account. this can be handled later. Please assist.",account,low
+"Customer support, I am getting a server error when trying to continue. I would like this resolved as soon as possible. Thank you.",technical,medium
+"Customer support, The invoice total is different from what I expected. I need help today. Thanks for your help. Reference ticket available on request.",billing,medium
+"Hi team, I need a refund for an incorrect charge. this is affecting my work. I would appreciate your support.",billing,medium
+"Customer support, I need technical support for an application issue. please treat this as high priority. I would appreciate your support.",technical,high
+"Customer support, The invoice total is different from what I expected. there is no immediate rush. Thanks for your help.",billing,low
+"Customer support, I need help understanding my invoice. when convenient.",billing,low
+"Please help me, I was charged twice for the same order. this is affecting my work.",billing,medium
+"Customer support, I need technical support for an application issue. I would appreciate a normal response. Thanks for your help. Reference ticket available on request.",technical,low
+"Please help me, The application crashes when I open it. I need help today.",technical,medium
+"I need assistance, The item is missing an important component. I would like this resolved as soon as possible.",product,medium
+"I need assistance, The application crashes when I open it. I would like this resolved as soon as possible. I would appreciate your support.",technical,medium
+"Customer support, I want to report a problem with the product. please respond when possible. I would appreciate your support.",product,low
+"Hi team, I need technical support for an application issue. I would appreciate a normal response. Thanks for your help.",technical,low
+"Please help me, I cannot connect to the service because of an error. this can be handled later. Please assist.",technical,low
+"Please help me, There is an unexpected charge on my bill. I need help immediately. Thank you.",billing,high
+"Hello support, My account is locked and I cannot access it. please respond when possible. I would appreciate your support.",account,low
+"Customer support, I received the wrong product in my order. there is no immediate rush.",product,low
+"I need assistance, The sign in page rejects my credentials. please respond when possible. I would appreciate your support.",account,low
+"Hi team, The item is missing an important component. this can be handled later.",product,low
+"Hello support, The page fails to load correctly. I need help immediately. Please assist.",technical,high
+"Hi team, I cannot connect to the service because of an error. there is no immediate rush. Thanks for your help.",technical,low
+"Customer support, I need technical support for an application issue. I would like this resolved as soon as possible.",technical,medium
+"Hi team, I was charged twice for the same order. I would appreciate a normal response. I would appreciate your support.",billing,low
+"Customer support, I need information about the product features. I have an important payment due today. Please assist.",product,high
+"I need assistance, I want to report a problem with the product. please check this issue today. Thank you.",product,medium
+"Hi team, My payment was declined but the amount was deducted. there is no immediate rush. Thanks for your help.",billing,low
+"Please help me, I am unable to access my customer account. please check this issue today. Thank you.",account,medium
+"Hello support, There is an unexpected charge on my bill. please check this issue today. Reference ticket available on request.",billing,medium
+"I need assistance, I forgot my password and need an account reset. please check this issue today. Thank you.",account,medium
+"I need assistance, I am unable to access my customer account. this is urgent. Thanks for your help.",account,high
+"Customer support, I need information about the product features. I would like this resolved as soon as possible. Thank you.",product,medium
+"Please help me, My account is locked and I cannot access it. I would like this resolved as soon as possible. Please assist.",account,medium
+"Customer support, I need help using the product correctly. please respond soon. Thank you.",product,medium
+"I need assistance, The application crashes when I open it. please respond when possible.",technical,low
+"Please help me, The item is missing an important component. this is affecting my work. I would appreciate your support.",product,medium
+"Hi team, The page fails to load correctly. please treat this as high priority.",technical,high
+"Hello support, The website is showing a technical error. this is urgent.",technical,high
+"I need assistance, The sign in page rejects my credentials. I have an important payment due today.",account,high
+"Please help me, I was charged twice for the same order. this must be resolved right away. Thank you.",billing,high
+"Customer support, I want to report a problem with the product. this is urgent. Thanks for your help.",product,high
+"Hello support, I need help understanding my invoice. I would like this resolved as soon as possible. Thanks for your help.",billing,medium
+"Hello support, I need help using the product correctly. I cannot continue until this is fixed. Please assist.",product,high

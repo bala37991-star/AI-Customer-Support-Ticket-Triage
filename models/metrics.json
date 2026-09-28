@@ -1,0 +1,177 @@
+{
+  "dataset_size": 1200,
+  "category_test_size": 240,
+  "urgency_test_size": 240,
+  "best_category_model": "Logistic Regression",
+  "best_urgency_model": "Logistic Regression",
+  "deployed_category_model": "Logistic Regression",
+  "deployed_urgency_model": "Logistic Regression",
+  "category_accuracy": 1.0,
+  "category_macro_f1": 1.0,
+  "urgency_accuracy": 1.0,
+  "urgency_macro_f1": 1.0,
+  "category_labels": [
+    "account",
+    "billing",
+    "product",
+    "technical"
+  ],
+  "urgency_labels": [
+    "high",
+    "low",
+    "medium"
+  ],
+  "model_comparison": [
+    {
+      "task": "Category",
+      "model": "Logistic Regression",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "task": "Category",
+      "model": "Linear SVM",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "task": "Category",
+      "model": "Multinomial Naive Bayes",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "task": "Urgency",
+      "model": "Logistic Regression",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "task": "Urgency",
+      "model": "Linear SVM",
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    },
+    {
+      "task": "Urgency",
+      "model": "Multinomial Naive Bayes",
+      "accuracy": 0.9875,
+      "macro_f1": 0.9866332497911445
+    }
+  ],
+  "category_confusion_matrix": [
+    [
+      60,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      60,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      60,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      60
+    ]
+  ],
+  "urgency_confusion_matrix": [
+    [
+      84,
+      0,
+      0
+    ],
+    [
+      0,
+      88,
+      0
+    ],
+    [
+      0,
+      0,
+      68
+    ]
+  ],
+  "category_report": {
+    "account": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    },
+    "billing": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    },
+    "product": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    },
+    "technical": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 60.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    }
+  },
+  "urgency_report": {
+    "high": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 84.0
+    },
+    "low": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 88.0
+    },
+    "medium": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 68.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 240.0
+    }
+  }
+}
